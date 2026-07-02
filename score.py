@@ -51,12 +51,12 @@ def mean_ci(xs: list):
 def _score_quant(d: Path, pop: str) -> dict:
     """Closed questions: aggregate each person's chosen option into a synthetic distribution,
     score it against the real distribution."""
-    questions = json.loads((d / "questions.json").read_text())          # qid -> {question, options}
-    real_raw = json.loads((d / "real_distribution.json").read_text())   # qid -> [probs]
+    questions = json.loads((d / "questions.json").read_text(encoding="utf-8"))          # qid -> {question, options}
+    real_raw = json.loads((d / "real_distribution.json").read_text(encoding="utf-8"))   # qid -> [probs]
 
     counts = {qid: Counter() for qid in questions}
     n_units = 0
-    for line in (d / "synthetic_answers.jsonl").read_text().splitlines():
+    for line in (d / "synthetic_answers.jsonl").read_text(encoding="utf-8").splitlines():
         line = line.strip()
         if not line:
             continue
@@ -89,11 +89,11 @@ def _score_quant(d: Path, pop: str) -> dict:
 def _score_qual(d: Path, pop: str) -> dict:
     """Open-ended questions: aggregate each person's assigned codes into a mention-share
     distribution over the codebook, score it against the real (ANES) gold coded-shares."""
-    gold = json.loads((d / "gold_shares.json").read_text())             # q -> {category: share}
+    gold = json.loads((d / "gold_shares.json").read_text(encoding="utf-8"))             # q -> {category: share}
 
     codes_by_q = {q: [] for q in gold}
     seen = set()
-    for line in (d / "synthetic_verbatims.jsonl").read_text().splitlines():
+    for line in (d / "synthetic_verbatims.jsonl").read_text(encoding="utf-8").splitlines():
         line = line.strip()
         if not line:
             continue
