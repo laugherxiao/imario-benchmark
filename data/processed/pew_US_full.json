@@ -1,0 +1,2037 @@
+{
+ "dataset": "Pew Research Center — American Trends Panel Wave 145 (Global Attitudes US, 2024)",
+ "source_url": "https://www.pewresearch.org/dataset/american-trends-panel-wave-145/",
+ "fieldwork_year": 2024,
+ "audience_type": "per_country",
+ "n_audiences": 1,
+ "audiences": [
+  "United States adults"
+ ],
+ "weight_variable": "WEIGHT_W145",
+ "question_filter": "value-labelled opinion items, 2-7 substantive options, base n>=50, ATP profile/admin vars (F_*, weights, device) excluded, DK/Refused dropped",
+ "n_cells": 117,
+ "n_unique_questions": 117,
+ "extracted_on": "2026-07-01",
+ "cells": [
+  {
+   "var": "econ_sit",
+   "question": "How would you describe the current economic situation in the U.S.?",
+   "audience": "United States adults",
+   "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+   ],
+   "distribution": [
+    0.057746390147202946,
+    0.28721406783273173,
+    0.39365163209393694,
+    0.26138790992612837
+   ],
+   "n": 3598
+  },
+  {
+   "var": "children_betteroff2",
+   "question": "When children today in the U.S. grow up, do you think they will be better off financially than their parents, or worse off financially than their parents?",
+   "audience": "United States adults",
+   "options": [
+    "Better off financially than their parents",
+    "Worse off financially than their parents"
+   ],
+   "distribution": [
+    0.2586984144436454,
+    0.7413015855563545
+   ],
+   "n": 3577
+  },
+  {
+   "var": "satisfied_democracy",
+   "question": "How satisfied are you with the way democracy is working in the U.S.?",
+   "audience": "United States adults",
+   "options": [
+    "Very satisfied",
+    "Somewhat satisfied",
+    "Not too satisfied",
+    "Not at all satisfied"
+   ],
+   "distribution": [
+    0.039168879120777246,
+    0.2726348128128655,
+    0.43956654052045085,
+    0.24862976754590638
+   ],
+   "n": 3585
+  },
+  {
+   "var": "fav_us",
+   "question": "Do you have a favorable or unfavorable opinion of The U.S.",
+   "audience": "United States adults",
+   "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+   ],
+   "distribution": [
+    0.26739022053653,
+    0.4440792795496351,
+    0.2233483634622756,
+    0.06518213645155933
+   ],
+   "n": 3576
+  },
+  {
+   "var": "fav_china",
+   "question": "Do you have a favorable or unfavorable opinion of China?",
+   "audience": "United States adults",
+   "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+   ],
+   "distribution": [
+    0.015306371096540854,
+    0.14964136674782869,
+    0.39544269266628546,
+    0.43960956948934504
+   ],
+   "n": 3520
+  },
+  {
+   "var": "fav_eu",
+   "question": "Do you have a favorable or unfavorable opinion of The European Union?",
+   "audience": "United States adults",
+   "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+   ],
+   "distribution": [
+    0.09507236364320491,
+    0.5415216050101045,
+    0.24666013147054275,
+    0.11674589987614785
+   ],
+   "n": 3469
+  },
+  {
+   "var": "fav_un",
+   "question": "Do you have a favorable or unfavorable opinion of The United Nations?",
+   "audience": "United States adults",
+   "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+   ],
+   "distribution": [
+    0.09260016954964263,
+    0.44537580053588244,
+    0.2617467479508813,
+    0.20027728196359346
+   ],
+   "n": 3500
+  },
+  {
+   "var": "fav_nato",
+   "question": "Do you have a favorable or unfavorable opinion of NATO, that is, North Atlantic Treaty Organization?",
+   "audience": "United States adults",
+   "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+   ],
+   "distribution": [
+    0.1419906663757402,
+    0.45949549866905315,
+    0.2539486111419958,
+    0.14456522381321085
+   ],
+   "n": 3484
+  },
+  {
+   "var": "fav_russia",
+   "question": "Do you have a favorable or unfavorable opinion of Russia?",
+   "audience": "United States adults",
+   "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+   ],
+   "distribution": [
+    0.013229322074096338,
+    0.10376105536358896,
+    0.30022563874314584,
+    0.582783983819169
+   ],
+   "n": 3526
+  },
+  {
+   "var": "fav_india",
+   "question": "Do you have a favorable or unfavorable opinion of India?",
+   "audience": "United States adults",
+   "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+   ],
+   "distribution": [
+    0.03528382883616559,
+    0.41483947726246173,
+    0.4194846406969105,
+    0.13039205320446215
+   ],
+   "n": 3456
+  },
+  {
+   "var": "fav_mexico",
+   "question": "Do you have a favorable or unfavorable opinion of Mexico?",
+   "audience": "United States adults",
+   "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+   ],
+   "distribution": [
+    0.05181890570958211,
+    0.3336412542953292,
+    0.393815724293573,
+    0.22072411570151576
+   ],
+   "n": 3510
+  },
+  {
+   "var": "fav_brazil",
+   "question": "Do you have a favorable or unfavorable opinion of Brazil?",
+   "audience": "United States adults",
+   "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+   ],
+   "distribution": [
+    0.03884837713568942,
+    0.4675898352982259,
+    0.3766676233294319,
+    0.11689416423665287
+   ],
+   "n": 3425
+  },
+  {
+   "var": "fav_uk",
+   "question": "Do you have a favorable or unfavorable opinion of The United Kingdom?",
+   "audience": "United States adults",
+   "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+   ],
+   "distribution": [
+    0.14153470037357668,
+    0.5833774439111595,
+    0.20163994126115195,
+    0.0734479144541119
+   ],
+   "n": 3497
+  },
+  {
+   "var": "fav_germany",
+   "question": "Do you have a favorable or unfavorable opinion of Germany?",
+   "audience": "United States adults",
+   "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+   ],
+   "distribution": [
+    0.11591298331627779,
+    0.5551336637535729,
+    0.2507330051034949,
+    0.07822034782665456
+   ],
+   "n": 3472
+  },
+  {
+   "var": "fav_france",
+   "question": "Do you have a favorable or unfavorable opinion of France?",
+   "audience": "United States adults",
+   "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+   ],
+   "distribution": [
+    0.08999156301844576,
+    0.5760924633241997,
+    0.24516059903330134,
+    0.08875537462405317
+   ],
+   "n": 3478
+  },
+  {
+   "var": "partyfav_rep",
+   "question": "Do you have a favorable or unfavorable opinion of The Republican Party?",
+   "audience": "United States adults",
+   "options": [
+    "Very favorable",
+    "Mostly favorable",
+    "Mostly unfavorable",
+    "Very unfavorable"
+   ],
+   "distribution": [
+    0.06634680933507124,
+    0.3133247414091888,
+    0.32800396519116043,
+    0.2923244840645795
+   ],
+   "n": 3555
+  },
+  {
+   "var": "partyfav_dem",
+   "question": "Do you have a favorable or unfavorable opinion of The Democratic Party?",
+   "audience": "United States adults",
+   "options": [
+    "Very favorable",
+    "Mostly favorable",
+    "Mostly unfavorable",
+    "Very unfavorable"
+   ],
+   "distribution": [
+    0.08511967813312614,
+    0.30086128414128027,
+    0.30278233289550566,
+    0.311236704830088
+   ],
+   "n": 3561
+  },
+  {
+   "var": "confid_xi",
+   "question": "How much confidence do you have in Chinese President Xi Jinping to do the right thing regarding world affairs?",
+   "audience": "United States adults",
+   "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all",
+    "Never heard of this person"
+   ],
+   "distribution": [
+    0.014217809428970241,
+    0.07520595245434342,
+    0.33455641505979433,
+    0.47171230792785024,
+    0.10430751512904175
+   ],
+   "n": 3555
+  },
+  {
+   "var": "confid_putin",
+   "question": "How much confidence do you have in Russian President Vladimir Putin to do the right thing regarding world affairs?",
+   "audience": "United States adults",
+   "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all",
+    "Never heard of this person"
+   ],
+   "distribution": [
+    0.01358364497078726,
+    0.06317354092710077,
+    0.21322179623271698,
+    0.6753798455674102,
+    0.03464117230198469
+   ],
+   "n": 3564
+  },
+  {
+   "var": "confid_macron",
+   "question": "How much confidence do you have in French President Emmanuel Macron to do the right thing regarding world affairs?",
+   "audience": "United States adults",
+   "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all",
+    "Never heard of this person"
+   ],
+   "distribution": [
+    0.047438960939603814,
+    0.3494407237116544,
+    0.2571031848533202,
+    0.1277375397240972,
+    0.2182795907713244
+   ],
+   "n": 3537
+  },
+  {
+   "var": "confid_zelenskyy",
+   "question": "How much confidence do you have in Ukrainian President Volodymyr Zelenskyy to do the right thing regarding world affairs?",
+   "audience": "United States adults",
+   "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all",
+    "Never heard of this person"
+   ],
+   "distribution": [
+    0.15074123005832082,
+    0.339316389209389,
+    0.21724690832344984,
+    0.17839510367184608,
+    0.11430036873699431
+   ],
+   "n": 3554
+  },
+  {
+   "var": "confid_netanyahu",
+   "question": "How much confidence do you have in Israeli Prime Minister Benjamin Netanyahu to do the right thing regarding world affairs?",
+   "audience": "United States adults",
+   "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all",
+    "Never heard of this person"
+   ],
+   "distribution": [
+    0.08852851915561298,
+    0.21742524595514512,
+    0.2788773754136439,
+    0.2593322259711738,
+    0.1558366335044242
+   ],
+   "n": 3560
+  },
+  {
+   "var": "prob_rich_poor",
+   "question": "How much of a problem do you think The gap between the rich and poor is in the U.S. today?",
+   "audience": "United States adults",
+   "options": [
+    "A very big problem",
+    "A moderately big problem",
+    "A small problem",
+    "Not a problem at all"
+   ],
+   "distribution": [
+    0.5122712688868901,
+    0.32387796222863785,
+    0.13187282180907162,
+    0.031977947075400484
+   ],
+   "n": 3591
+  },
+  {
+   "var": "prob_gen_unequal",
+   "question": "How much of a problem do you think Unequal rights for men and women is in the U.S. today?",
+   "audience": "United States adults",
+   "options": [
+    "A very big problem",
+    "A moderately big problem",
+    "A small problem",
+    "Not a problem at all"
+   ],
+   "distribution": [
+    0.17978789590029534,
+    0.32135344999193916,
+    0.3207939713524419,
+    0.17806468275532356
+   ],
+   "n": 3580
+  },
+  {
+   "var": "prob_racediscrim",
+   "question": "How much of a problem do you think Discrimination against people based on their race or ethnicity is in the U.S. today?",
+   "audience": "United States adults",
+   "options": [
+    "A very big problem",
+    "A moderately big problem",
+    "A small problem",
+    "Not a problem at all"
+   ],
+   "distribution": [
+    0.31275991868820585,
+    0.3462508930242438,
+    0.2658213851873322,
+    0.07516780310021814
+   ],
+   "n": 3582
+  },
+  {
+   "var": "prob_reldiscrim",
+   "question": "How much of a problem do you think Discrimination against people based on their religion is in the U.S. today?",
+   "audience": "United States adults",
+   "options": [
+    "A very big problem",
+    "A moderately big problem",
+    "A small problem",
+    "Not a problem at all"
+   ],
+   "distribution": [
+    0.2026683833886189,
+    0.35404454336262453,
+    0.3533121488335271,
+    0.0899749244152295
+   ],
+   "n": 3580
+  },
+  {
+   "var": "prob_misinformation",
+   "question": "How much of a problem do you think made-up news and information is in the country today?",
+   "audience": "United States adults",
+   "options": [
+    "A very big problem",
+    "A moderately big problem",
+    "A small problem",
+    "Not a problem at all"
+   ],
+   "distribution": [
+    0.49123318369601915,
+    0.36317540619949623,
+    0.13404008313656005,
+    0.011551326967924658
+   ],
+   "n": 3583
+  },
+  {
+   "var": "free_press",
+   "question": "How important is it to have The media can report the news without government censorship in our country?",
+   "audience": "United States adults",
+   "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all"
+   ],
+   "distribution": [
+    0.6524802721126254,
+    0.2727048017162412,
+    0.04899526927530839,
+    0.025819656895824907
+   ],
+   "n": 3582
+  },
+  {
+   "var": "free_speech",
+   "question": "How important is it to have People can say what they want without government censorship in our country?",
+   "audience": "United States adults",
+   "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all"
+   ],
+   "distribution": [
+    0.567763325439234,
+    0.3459000789140593,
+    0.059534675841641675,
+    0.0268019198050651
+   ],
+   "n": 3579
+  },
+  {
+   "var": "free_internet",
+   "question": "How important is it to have People can use the internet without government censorship in our country?",
+   "audience": "United States adults",
+   "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all"
+   ],
+   "distribution": [
+    0.5442895046175116,
+    0.35236479979549334,
+    0.07339463950290691,
+    0.029951056084088226
+   ],
+   "n": 3579
+  },
+  {
+   "var": "freedom_press",
+   "question": "And in the U.S. How free is the media to report the news?",
+   "audience": "United States adults",
+   "options": [
+    "Completely free",
+    "Somewhat free",
+    "Not very free",
+    "Not at all free"
+   ],
+   "distribution": [
+    0.3299333075944578,
+    0.4601940854836893,
+    0.15765472585760165,
+    0.05221788106425122
+   ],
+   "n": 3587
+  },
+  {
+   "var": "freedom_say",
+   "question": "And in the U.S. How free are people to say what they want?",
+   "audience": "United States adults",
+   "options": [
+    "Completely free",
+    "Somewhat free",
+    "Not very free",
+    "Not at all free"
+   ],
+   "distribution": [
+    0.2770324111890328,
+    0.5286700805364348,
+    0.1533373489940599,
+    0.04096015928047251
+   ],
+   "n": 3593
+  },
+  {
+   "var": "freedom_internet",
+   "question": "And in the U.S. How free are people to use the internet?",
+   "audience": "United States adults",
+   "options": [
+    "Completely free",
+    "Somewhat free",
+    "Not very free",
+    "Not at all free"
+   ],
+   "distribution": [
+    0.40393742067758925,
+    0.4819624311690281,
+    0.08652515471840065,
+    0.027574993434982025
+   ],
+   "n": 3589
+  },
+  {
+   "var": "inequality_merit",
+   "question": "How much, if at all, do you think That some people work harder than others to economic inequality in this country?",
+   "audience": "United States adults",
+   "options": [
+    "Contributes a great deal",
+    "Contributes a fair amount",
+    "Contributes not too much",
+    "Contributes not at all"
+   ],
+   "distribution": [
+    0.3322049501553609,
+    0.3384747616241461,
+    0.23270388161306957,
+    0.09661640660742345
+   ],
+   "n": 3578
+  },
+  {
+   "var": "inequality_opp",
+   "question": "How much, if at all, do you think That some people are born with more opportunities than others to economic inequality in this country?",
+   "audience": "United States adults",
+   "options": [
+    "Contributes a great deal",
+    "Contributes a fair amount",
+    "Contributes not too much",
+    "Contributes not at all"
+   ],
+   "distribution": [
+    0.36261543437781874,
+    0.3801987830383616,
+    0.20088074196373634,
+    0.05630504062008333
+   ],
+   "n": 3590
+  },
+  {
+   "var": "inequality_discrim",
+   "question": "How much, if at all, do you think Discrimination against racial and ethnic minorities to economic inequality in this country?",
+   "audience": "United States adults",
+   "options": [
+    "Contributes a great deal",
+    "Contributes a fair amount",
+    "Contributes not too much",
+    "Contributes not at all"
+   ],
+   "distribution": [
+    0.28066402860122663,
+    0.34807639419527836,
+    0.258679286451983,
+    0.11258029075151202
+   ],
+   "n": 3582
+  },
+  {
+   "var": "inequality_automation",
+   "question": "How much, if at all, do you think Robots and computers doing work previously done by humans to economic inequality in this country?",
+   "audience": "United States adults",
+   "options": [
+    "Contributes a great deal",
+    "Contributes a fair amount",
+    "Contributes not too much",
+    "Contributes not at all"
+   ],
+   "distribution": [
+    0.2235627713514414,
+    0.3745931934117734,
+    0.3240290260675164,
+    0.07781500916926885
+   ],
+   "n": 3578
+  },
+  {
+   "var": "inequality_edu",
+   "question": "How much, if at all, do you think Problems with our education system to economic inequality in this country?",
+   "audience": "United States adults",
+   "options": [
+    "Contributes a great deal",
+    "Contributes a fair amount",
+    "Contributes not too much",
+    "Contributes not at all"
+   ],
+   "distribution": [
+    0.4823710547627113,
+    0.38408554008825097,
+    0.10570700878675533,
+    0.02783639636228241
+   ],
+   "n": 3581
+  },
+  {
+   "var": "inequality_rich",
+   "question": "How much, if at all, do you think Rich people have too much political influence to economic inequality in this country?",
+   "audience": "United States adults",
+   "options": [
+    "Contributes a great deal",
+    "Contributes a fair amount",
+    "Contributes not too much",
+    "Contributes not at all"
+   ],
+   "distribution": [
+    0.6178162146594584,
+    0.28274041982022213,
+    0.07487550574620282,
+    0.024567859774116737
+   ],
+   "n": 3581
+  },
+  {
+   "var": "econsys_reform",
+   "question": "Thinking about the U.S., how much would you say the economic system needs to be changed, if at all?",
+   "audience": "United States adults",
+   "options": [
+    "It needs to be completely reformed",
+    "It needs major changes",
+    "It needs minor changes",
+    "It doesn’t need to be changed"
+   ],
+   "distribution": [
+    0.19978995806498526,
+    0.46571371233728864,
+    0.28348678106337305,
+    0.05100954853435311
+   ],
+   "n": 3581
+  },
+  {
+   "var": "usdemocracy_example",
+   "question": "Which statement comes closest to your own view, even if none are exactly right? Democracy in the U.S. is a good example for other countries to follow, used to be a good example, but has not been in recent years, or has never been a good example for other countries to follow?",
+   "audience": "United States adults",
+   "options": [
+    "Is a good example for other countries to follow",
+    "Used to be a good example, but has not been in recent years",
+    "Has never been a good example for other countries to follow"
+   ],
+   "distribution": [
+    0.19148290608419768,
+    0.7318087274555257,
+    0.07670836646027664
+   ],
+   "n": 3569
+  },
+  {
+   "var": "prezfp",
+   "question": "Right now, which is more important for President Biden to focus on?",
+   "audience": "United States adults",
+   "options": [
+    "Domestic policy",
+    "Foreign policy"
+   ],
+   "distribution": [
+    0.8586053363352651,
+    0.14139466366473485
+   ],
+   "n": 3533
+  },
+  {
+   "var": "usrespect_import",
+   "question": "How important, if at all, is it that the U.S. is generally respected by other countries around the world?",
+   "audience": "United States adults",
+   "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not at all important"
+   ],
+   "distribution": [
+    0.5514601193248373,
+    0.35364060823890153,
+    0.07671413803221173,
+    0.018185134404049376
+   ],
+   "n": 3584
+  },
+  {
+   "var": "lrngfp_a",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Preventing the spread of weapons of mass destruction should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.6400086340524281,
+    0.3110925132843068,
+    0.04889885266326504
+   ],
+   "n": 1798
+  },
+  {
+   "var": "lrngfp_b",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Strengthening the United Nations should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.30984864933060613,
+    0.47142912265618087,
+    0.21872222801321306
+   ],
+   "n": 1786
+  },
+  {
+   "var": "lrngfp_c",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Reducing U.S. military commitments overseas should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.24669505827654462,
+    0.5876069890725352,
+    0.1656979526509202
+   ],
+   "n": 1793
+  },
+  {
+   "var": "lrngfp_d",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Limiting the power and influence of Russia should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.509348990944106,
+    0.40751176617775003,
+    0.083139242878144
+   ],
+   "n": 1790
+  },
+  {
+   "var": "lrngfp_e",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Promoting democracy in other nations should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.18606596884372037,
+    0.5265952380793689,
+    0.28733879307691074
+   ],
+   "n": 1787
+  },
+  {
+   "var": "lrngfp_f",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Limiting the power and influence of China should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.49772489825124094,
+    0.42077130988259515,
+    0.08150379186616387
+   ],
+   "n": 1795
+  },
+  {
+   "var": "lrngfp_g",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Maintaining the U.S. military advantage over all other countries should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.5416193651789535,
+    0.37324168339060415,
+    0.08513895143044231
+   ],
+   "n": 1792
+  },
+  {
+   "var": "lrngfp_h",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Dealing with global climate change should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.44351660659989217,
+    0.3107518162548001,
+    0.2457315771453077
+   ],
+   "n": 1795
+  },
+  {
+   "var": "lrngfp_i",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Finding a solution to the conflict between Israelis and Palestinians should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.29070812251136624,
+    0.4888984254596697,
+    0.220393452028964
+   ],
+   "n": 1791
+  },
+  {
+   "var": "lrngfp_j",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Reducing the flow of illegal drugs into our country should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.6480179464946616,
+    0.28993107210868885,
+    0.06205098139664952
+   ],
+   "n": 1801
+  },
+  {
+   "var": "lrngfp_k",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think The U.S. being a leader in developing artificial intelligence should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.32599775300440714,
+    0.48166916838624235,
+    0.1923330786093505
+   ],
+   "n": 1789
+  },
+  {
+   "var": "lrngfp_l",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Promoting and defending human rights in other countries should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.2588904337065907,
+    0.5591605168714097,
+    0.18194904942199971
+   ],
+   "n": 1777
+  },
+  {
+   "var": "lrngfp_m",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Reducing the spread of infectious diseases should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.529817279631581,
+    0.40576555618039817,
+    0.0644171641880208
+   ],
+   "n": 1779
+  },
+  {
+   "var": "lrngfp_n",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Limiting the power and influence of Iran should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.3783663856292414,
+    0.4906353431288379,
+    0.1309982712419208
+   ],
+   "n": 1762
+  },
+  {
+   "var": "lrngfp_o",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Taking measures to protect the U.S. from terrorist attacks should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.7385674633790791,
+    0.2365295386640366,
+    0.02490299795688423
+   ],
+   "n": 1780
+  },
+  {
+   "var": "lrngfp_p",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Getting other countries to assume more of the costs of maintaining world order should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.4227127467250458,
+    0.4932592725895018,
+    0.08402798068545246
+   ],
+   "n": 1776
+  },
+  {
+   "var": "lrngfp_q",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Aiding refugees fleeing violence around the world should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.1871941756362675,
+    0.593999158915999,
+    0.21880666544773353
+   ],
+   "n": 1773
+  },
+  {
+   "var": "lrngfp_r",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Limiting the power and influence of North Korea should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.3860627706102306,
+    0.49162048817137266,
+    0.12231674121839678
+   ],
+   "n": 1764
+  },
+  {
+   "var": "lrngfp_s",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Strengthening NATO should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.27946255255635843,
+    0.5303278839399598,
+    0.19020956350368184
+   ],
+   "n": 1757
+  },
+  {
+   "var": "lrngfp_t",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Supporting Israel should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.2224950443378266,
+    0.45967321925736193,
+    0.3178317364048114
+   ],
+   "n": 1767
+  },
+  {
+   "var": "lrngfp_u",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think Supporting Ukraine should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.23777369145801389,
+    0.49207165811327663,
+    0.2701546504287094
+   ],
+   "n": 1770
+  },
+  {
+   "var": "lrngfp_v",
+   "question": "Thinking about long-range foreign policy goals, how much priority, if any, do you think The U.S. being a leader in space exploration should be given?",
+   "audience": "United States adults",
+   "options": [
+    "Top priority",
+    "Some priority",
+    "No priority"
+   ],
+   "distribution": [
+    0.2494131980172975,
+    0.528526936270687,
+    0.22205986571201547
+   ],
+   "n": 1772
+  },
+  {
+   "var": "us_euro_sec",
+   "question": "How important is Security and defense ties?",
+   "audience": "United States adults",
+   "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not at all important"
+   ],
+   "distribution": [
+    0.5744830084192643,
+    0.352912633805727,
+    0.056404944200956444,
+    0.016199413574052343
+   ],
+   "n": 3553
+  },
+  {
+   "var": "us_euro_econ",
+   "question": "How important is Economic and trade ties?",
+   "audience": "United States adults",
+   "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not at all important"
+   ],
+   "distribution": [
+    0.551907877753652,
+    0.3945385233344559,
+    0.04259632324822731,
+    0.010957275663664653
+   ],
+   "n": 3565
+  },
+  {
+   "var": "us_euro_dem",
+   "question": "How important is Shared democratic values?",
+   "audience": "United States adults",
+   "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not at all important"
+   ],
+   "distribution": [
+    0.37443180793998565,
+    0.455421938998486,
+    0.13201521795905316,
+    0.0381310351024751
+   ],
+   "n": 3554
+  },
+  {
+   "var": "growinflu1_china",
+   "question": "For China, would you say its influence in the world in recent years has been getting stronger, getting weaker, or staying about the same?",
+   "audience": "United States adults",
+   "options": [
+    "Getting stronger",
+    "Getting weaker",
+    "Staying about the same"
+   ],
+   "distribution": [
+    0.7306877574850907,
+    0.08976579303456282,
+    0.17954644948034645
+   ],
+   "n": 3522
+  },
+  {
+   "var": "growinflu1_russia",
+   "question": "For Russia, would you say its influence in the world in recent years has been getting stronger, getting weaker, or staying about the same?",
+   "audience": "United States adults",
+   "options": [
+    "Getting stronger",
+    "Getting weaker",
+    "Staying about the same"
+   ],
+   "distribution": [
+    0.4985007006446547,
+    0.2466094867600135,
+    0.2548898125953318
+   ],
+   "n": 3530
+  },
+  {
+   "var": "growinflu1_india",
+   "question": "For India, would you say its influence in the world in recent years has been getting stronger, getting weaker, or staying about the same?",
+   "audience": "United States adults",
+   "options": [
+    "Getting stronger",
+    "Getting weaker",
+    "Staying about the same"
+   ],
+   "distribution": [
+    0.36626505647423613,
+    0.10715268795171576,
+    0.5265822555740481
+   ],
+   "n": 3482
+  },
+  {
+   "var": "growinflu1_germany",
+   "question": "For Germany, would you say its influence in the world in recent years has been getting stronger, getting weaker, or staying about the same?",
+   "audience": "United States adults",
+   "options": [
+    "Getting stronger",
+    "Getting weaker",
+    "Staying about the same"
+   ],
+   "distribution": [
+    0.19031081083747411,
+    0.2006727639909601,
+    0.6090164251715658
+   ],
+   "n": 3491
+  },
+  {
+   "var": "growinflu1_france",
+   "question": "For France, would you say its influence in the world in recent years has been getting stronger, getting weaker, or staying about the same?",
+   "audience": "United States adults",
+   "options": [
+    "Getting stronger",
+    "Getting weaker",
+    "Staying about the same"
+   ],
+   "distribution": [
+    0.12463634778339386,
+    0.250351663465415,
+    0.6250119887511911
+   ],
+   "n": 3505
+  },
+  {
+   "var": "growinflu1_uk",
+   "question": "For The United Kingdom, would you say its influence in the world in recent years has been getting stronger, getting weaker, or staying about the same?",
+   "audience": "United States adults",
+   "options": [
+    "Getting stronger",
+    "Getting weaker",
+    "Staying about the same"
+   ],
+   "distribution": [
+    0.12493975644093337,
+    0.3243964662914255,
+    0.5506637772676412
+   ],
+   "n": 3517
+  },
+  {
+   "var": "growinflu1_iran",
+   "question": "For Iran, would you say its influence in the world in recent years has been getting stronger, getting weaker, or staying about the same?",
+   "audience": "United States adults",
+   "options": [
+    "Getting stronger",
+    "Getting weaker",
+    "Staying about the same"
+   ],
+   "distribution": [
+    0.40852595796553,
+    0.1684409424945589,
+    0.4230330995399111
+   ],
+   "n": 3497
+  },
+  {
+   "var": "growinflu1_brazil",
+   "question": "For Brazil, would you say its influence in the world in recent years has been getting stronger, getting weaker, or staying about the same?",
+   "audience": "United States adults",
+   "options": [
+    "Getting stronger",
+    "Getting weaker",
+    "Staying about the same"
+   ],
+   "distribution": [
+    0.16763662887904943,
+    0.16383800043346247,
+    0.6685253706874881
+   ],
+   "n": 3469
+  },
+  {
+   "var": "growinflu1_country",
+   "question": "For The U.S., would you say its influence in the world in recent years has been getting stronger, getting weaker, or staying about the same?",
+   "audience": "United States adults",
+   "options": [
+    "Getting stronger",
+    "Getting weaker",
+    "Staying about the same"
+   ],
+   "distribution": [
+    0.14760334324759217,
+    0.5564039038918881,
+    0.2959927528605197
+   ],
+   "n": 3552
+  },
+  {
+   "var": "growinflu2_nato",
+   "question": "For NATO, that is, North Atlantic Treaty Organization, would you say its influence in the world in recent years has been getting stronger, getting weaker, or staying about the same?",
+   "audience": "United States adults",
+   "options": [
+    "Getting stronger",
+    "Getting weaker",
+    "Staying about the same"
+   ],
+   "distribution": [
+    0.23969483673999487,
+    0.2940913796346558,
+    0.46621378362534927
+   ],
+   "n": 3495
+  },
+  {
+   "var": "growinflu2_eu",
+   "question": "For The European Union, would you say its influence in the world in recent years has been getting stronger, getting weaker, or staying about the same?",
+   "audience": "United States adults",
+   "options": [
+    "Getting stronger",
+    "Getting weaker",
+    "Staying about the same"
+   ],
+   "distribution": [
+    0.18195909596370127,
+    0.2936429364857385,
+    0.5243979675505602
+   ],
+   "n": 3475
+  },
+  {
+   "var": "growinflu2_un",
+   "question": "For The United Nations, would you say its influence in the world in recent years has been getting stronger, getting weaker, or staying about the same?",
+   "audience": "United States adults",
+   "options": [
+    "Getting stronger",
+    "Getting weaker",
+    "Staying about the same"
+   ],
+   "distribution": [
+    0.13484870005833582,
+    0.36280783738554406,
+    0.5023434625561202
+   ],
+   "n": 3502
+  },
+  {
+   "var": "china_us_enemy",
+   "question": "On balance, do you think of China as a partner of the U.S., a competitor of the U.S. or an enemy of the U.S.?",
+   "audience": "United States adults",
+   "options": [
+    "Partner",
+    "Competitor",
+    "Enemy"
+   ],
+   "distribution": [
+    0.06322875039738968,
+    0.5100366475928995,
+    0.42673460200971086
+   ],
+   "n": 3532
+  },
+  {
+   "var": "russia_us_enemy",
+   "question": "On balance, do you think of Russia as a partner of the U.S., a competitor of the U.S. or an enemy of the U.S.?",
+   "audience": "United States adults",
+   "options": [
+    "Partner",
+    "Competitor",
+    "Enemy"
+   ],
+   "distribution": [
+    0.041235212437488955,
+    0.328351229094461,
+    0.63041355846805
+   ],
+   "n": 3523
+  },
+  {
+   "var": "brderjob",
+   "question": "How would you rate the job the U.S. government is doing dealing with the large number of people seeking asylum at the U.S. border with Mexico?",
+   "audience": "United States adults",
+   "options": [
+    "Very good job",
+    "Somewhat good job",
+    "Somewhat bad job",
+    "Very bad job"
+   ],
+   "distribution": [
+    0.015864898991063404,
+    0.14487824689113943,
+    0.3380798050301485,
+    0.5011770490876487
+   ],
+   "n": 3566
+  },
+  {
+   "var": "brderjob_mex",
+   "question": "How would you rate the job the Mexican government is doing dealing with the large number of people seeking asylum at the U.S. border with Mexico?",
+   "audience": "United States adults",
+   "options": [
+    "Very good job",
+    "Somewhat good job",
+    "Somewhat bad job",
+    "Very bad job"
+   ],
+   "distribution": [
+    0.021288247502775286,
+    0.10971829891109446,
+    0.25199014839145034,
+    0.6170033051946799
+   ],
+   "n": 2872
+  },
+  {
+   "var": "china_influ_econ",
+   "question": "How much influence do you think China is having on economic conditions in the U.S.?",
+   "audience": "United States adults",
+   "options": [
+    "A great deal of influence",
+    "A fair amount of influence",
+    "Not too much influence",
+    "No influence at all"
+   ],
+   "distribution": [
+    0.2844634125833368,
+    0.5426927968266231,
+    0.14517357339020392,
+    0.027670217199836318
+   ],
+   "n": 3569
+  },
+  {
+   "var": "china_influ_econ2",
+   "question": "Right now, is China having a positive or negative impact on economic conditions in the U.S.?",
+   "audience": "United States adults",
+   "options": [
+    "Positive impact",
+    "Negative impact"
+   ],
+   "distribution": [
+    0.182521575859034,
+    0.8174784241409659
+   ],
+   "n": 3391
+  },
+  {
+   "var": "china_disputes",
+   "question": "How concerned are you about territorial disputes between China and neighboring countries?",
+   "audience": "United States adults",
+   "options": [
+    "Very concerned",
+    "Somewhat concerned",
+    "Not too concerned",
+    "Not at all concerned"
+   ],
+   "distribution": [
+    0.23747095212865066,
+    0.47776453731034496,
+    0.21069759473773048,
+    0.07406691582327402
+   ],
+   "n": 3184
+  },
+  {
+   "var": "nationality_relig",
+   "question": "Some people say that the following things are important for being truly American. Others say they are not important for being truly American. How important do you think Being a Christian is to be truly American?",
+   "audience": "United States adults",
+   "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not at all important"
+   ],
+   "distribution": [
+    0.18084880194164882,
+    0.20456782861402636,
+    0.20373837090284677,
+    0.41084499854147816
+   ],
+   "n": 3576
+  },
+  {
+   "var": "nationality_born",
+   "question": "Some people say that the following things are important for being truly American. Others say they are not important for being truly American. How important do you think Being born in the United States is to be truly American?",
+   "audience": "United States adults",
+   "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not at all important"
+   ],
+   "distribution": [
+    0.24185202343097525,
+    0.27945527581528695,
+    0.2563010136047534,
+    0.22239168714898438
+   ],
+   "n": 3579
+  },
+  {
+   "var": "nationality_lang",
+   "question": "Some people say that the following things are important for being truly American. Others say they are not important for being truly American. How important do you think Being able to speak English is to be truly American?",
+   "audience": "United States adults",
+   "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not at all important"
+   ],
+   "distribution": [
+    0.48545372832093764,
+    0.3086563740965244,
+    0.11892086319251065,
+    0.08696903439002741
+   ],
+   "n": 3583
+  },
+  {
+   "var": "nationality_custom",
+   "question": "Some people say that the following things are important for being truly American. Others say they are not important for being truly American. How important do you think Sharing American customs and traditions is to be truly American?",
+   "audience": "United States adults",
+   "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not at all important"
+   ],
+   "distribution": [
+    0.34506289709393856,
+    0.36566075887770993,
+    0.18832509929014357,
+    0.10095124473820788
+   ],
+   "n": 3581
+  },
+  {
+   "var": "benefitorg_nato",
+   "question": "How much, if at all, do you think the U.S. benefits from being a member of North Atlantic Treaty Organization, or NATO?",
+   "audience": "United States adults",
+   "options": [
+    "A great deal",
+    "A fair amount",
+    "Not too much",
+    "Not at all"
+   ],
+   "distribution": [
+    0.2743449945566782,
+    0.40366675554156695,
+    0.21920681017811558,
+    0.10278143972363918
+   ],
+   "n": 3518
+  },
+  {
+   "var": "benefitorg_un",
+   "question": "How much, if at all, do you think the U.S. benefits from being a member of The United Nations?",
+   "audience": "United States adults",
+   "options": [
+    "A great deal",
+    "A fair amount",
+    "Not too much",
+    "Not at all"
+   ],
+   "distribution": [
+    0.23437418858342363,
+    0.3865790289815812,
+    0.22908198347147266,
+    0.14996479896352244
+   ],
+   "n": 3518
+  },
+  {
+   "var": "benefitorg_who",
+   "question": "How much, if at all, do you think the U.S. benefits from being a member of The World Health Organization, or WHO?",
+   "audience": "United States adults",
+   "options": [
+    "A great deal",
+    "A fair amount",
+    "Not too much",
+    "Not at all"
+   ],
+   "distribution": [
+    0.2565859794674399,
+    0.34758944590115576,
+    0.22439149270909037,
+    0.17143308192231402
+   ],
+   "n": 3520
+  },
+  {
+   "var": "unisgz_aid",
+   "question": "How much confidence do you have in the ability of the United Nations to Provide effective humanitarian aid to Gaza?",
+   "audience": "United States adults",
+   "options": [
+    "A great deal of confidence",
+    "A fair amount of confidence",
+    "Not too much confidence",
+    "No confidence at all"
+   ],
+   "distribution": [
+    0.05356063477677869,
+    0.3128601570853186,
+    0.4210159986711908,
+    0.21256320946671192
+   ],
+   "n": 3040
+  },
+  {
+   "var": "unisgz_ceasefire",
+   "question": "How much confidence do you have in the ability of the United Nations to Enforce a ceasefire between Israel and Hamas?",
+   "audience": "United States adults",
+   "options": [
+    "A great deal of confidence",
+    "A fair amount of confidence",
+    "Not too much confidence",
+    "No confidence at all"
+   ],
+   "distribution": [
+    0.040567719858857224,
+    0.14016654319706368,
+    0.43646960321274064,
+    0.3827961337313384
+   ],
+   "n": 3081
+  },
+  {
+   "var": "eu_def_spend",
+   "question": "Now thinking about American allies in Europe, do you think that our European allies’ spending on national defense should increase, decrease, or stay about the same?",
+   "audience": "United States adults",
+   "options": [
+    "Increase",
+    "Decrease",
+    "Stay about the same"
+   ],
+   "distribution": [
+    0.6409897170144485,
+    0.11219842575516593,
+    0.24681185723038573
+   ],
+   "n": 2803
+  },
+  {
+   "var": "ukr_sprt",
+   "question": "When it comes to Russia’s invasion of Ukraine, do you think the U.S. is providing too much support to Ukraine, not enough support to Ukraine, or about the right amount of support to Ukraine?",
+   "audience": "United States adults",
+   "options": [
+    "Too much support to Ukraine",
+    "Not enough support to Ukraine",
+    "About the right amount of support to Ukraine"
+   ],
+   "distribution": [
+    0.3885535151608683,
+    0.29621274690564736,
+    0.31523373793348436
+   ],
+   "n": 3016
+  },
+  {
+   "var": "ukr_natsec",
+   "question": "Do you think supporting Ukraine in its war against Russia helps U.S. national security, hurts U.S. national security, or has no impact on U.S. national security?",
+   "audience": "United States adults",
+   "options": [
+    "Helps U.S. national security",
+    "Hurts U.S. national security",
+    "Has no impact on U.S. national security"
+   ],
+   "distribution": [
+    0.3693340184506669,
+    0.3781585507003435,
+    0.2525074308489897
+   ],
+   "n": 3502
+  },
+  {
+   "var": "ua_conc_b",
+   "question": "How concerned are you about the possibility of Ukraine being defeated and taken over by Russia?",
+   "audience": "United States adults",
+   "options": [
+    "Extremely concerned",
+    "Very concerned",
+    "Somewhat concerned",
+    "Not too concerned",
+    "Not at all concerned"
+   ],
+   "distribution": [
+    0.2202844854278807,
+    0.22993109360262876,
+    0.3113532644924948,
+    0.13619695742645072,
+    0.10223419905054505
+   ],
+   "n": 3551
+  },
+  {
+   "var": "ua_conc_d",
+   "question": "How concerned are you about the possibility of Russia invading other countries in the region, not just Ukraine?",
+   "audience": "United States adults",
+   "options": [
+    "Extremely concerned",
+    "Very concerned",
+    "Somewhat concerned",
+    "Not too concerned",
+    "Not at all concerned"
+   ],
+   "distribution": [
+    0.2602580556706092,
+    0.22873526352112045,
+    0.2798810567439724,
+    0.12850027848811016,
+    0.10262534557618774
+   ],
+   "n": 3556
+  },
+  {
+   "var": "ssdo_priorities",
+   "question": "There are many kinds of groups in the world: different genders, ethnic and religious groups, nationalities, and political groups. Do you favor or oppose In setting priorities for the U.S., we must consider all groups?",
+   "audience": "United States adults",
+   "options": [
+    "Strongly favor",
+    "Somewhat favor",
+    "Somewhat oppose",
+    "Strongly oppose"
+   ],
+   "distribution": [
+    0.3783368812085793,
+    0.41135488474489623,
+    0.14741704905528938,
+    0.06289118499123508
+   ],
+   "n": 3528
+  },
+  {
+   "var": "ssdo_push",
+   "question": "There are many kinds of groups in the world: different genders, ethnic and religious groups, nationalities, and political groups. Do you favor or oppose We should NOT push for equality between all groups?",
+   "audience": "United States adults",
+   "options": [
+    "Strongly favor",
+    "Somewhat favor",
+    "Somewhat oppose",
+    "Strongly oppose"
+   ],
+   "distribution": [
+    0.11450422362686959,
+    0.2446963553910222,
+    0.31191436618358315,
+    0.3288850547985251
+   ],
+   "n": 3515
+  },
+  {
+   "var": "ssdo_ideal",
+   "question": "There are many kinds of groups in the world: different genders, ethnic and religious groups, nationalities, and political groups. Do you favor or oppose Group equality should be our ideal?",
+   "audience": "United States adults",
+   "options": [
+    "Strongly favor",
+    "Somewhat favor",
+    "Somewhat oppose",
+    "Strongly oppose"
+   ],
+   "distribution": [
+    0.3364913621881493,
+    0.39763283491102425,
+    0.16932896711884038,
+    0.09654683578198599
+   ],
+   "n": 3515
+  },
+  {
+   "var": "ssdo_dominate",
+   "question": "There are many kinds of groups in the world: different genders, ethnic and religious groups, nationalities, and political groups. Do you favor or oppose Superior groups should dominate inferior groups?",
+   "audience": "United States adults",
+   "options": [
+    "Strongly favor",
+    "Somewhat favor",
+    "Somewhat oppose",
+    "Strongly oppose"
+   ],
+   "distribution": [
+    0.023309380161800165,
+    0.10267587714942952,
+    0.2765214803830941,
+    0.5974932623056762
+   ],
+   "n": 3511
+  },
+  {
+   "var": "nato_region",
+   "question": "NATO is an international alliance with member states concentrated in which two regions of the world?",
+   "audience": "United States adults",
+   "options": [
+    "North America and the Asia Pacific",
+    "Europe and Asia",
+    "The Middle East and North Africa",
+    "Europe and North America"
+   ],
+   "distribution": [
+    0.06159657379929881,
+    0.03700830881272901,
+    0.03527055109289259,
+    0.8661245662950795
+   ],
+   "n": 2475
+  },
+  {
+   "var": "nato_focus",
+   "question": "Which of the following is a central focus of NATO?",
+   "audience": "United States adults",
+   "options": [
+    "Promoting trade among its members",
+    "Prosecuting international crimes",
+    "Reducing the effects of climate change",
+    "Promoting the security of its members"
+   ],
+   "distribution": [
+    0.1701948922889385,
+    0.048548518609967936,
+    0.04488564537131732,
+    0.7363709437297763
+   ],
+   "n": 2703
+  },
+  {
+   "var": "nato_know",
+   "question": "Which of the following countries is NOT a member of NATO?",
+   "audience": "United States adults",
+   "options": [
+    "Estonia",
+    "Turkey",
+    "Bulgaria",
+    "Ukraine"
+   ],
+   "distribution": [
+    0.0570076578958943,
+    0.08034349056756085,
+    0.057703972768825475,
+    0.8049448787677194
+   ],
+   "n": 2040
+  },
+  {
+   "var": "newssociety",
+   "question": "Overall, how important do you think the freedom of the press is to the well-being of society?",
+   "audience": "United States adults",
+   "options": [
+    "Extremely important",
+    "Very important",
+    "Somewhat important",
+    "A little important",
+    "Not at all important"
+   ],
+   "distribution": [
+    0.44124501498190694,
+    0.2966130597636791,
+    0.17930900860294405,
+    0.06249295739815715,
+    0.02033995925331278
+   ],
+   "n": 3581
+  },
+  {
+   "var": "newscorp",
+   "question": "How much, if at all, do you think that U.S. news organizations are influenced by corporations and financial interests?",
+   "audience": "United States adults",
+   "options": [
+    "A great deal",
+    "Somewhat",
+    "Not very much",
+    "Not at all"
+   ],
+   "distribution": [
+    0.5678520345151296,
+    0.36207865038776765,
+    0.06247457020623473,
+    0.007594744890867902
+   ],
+   "n": 3309
+  },
+  {
+   "var": "newsgovt",
+   "question": "How much, if at all, do you think that U.S. news organizations are influenced by government and political interests?",
+   "audience": "United States adults",
+   "options": [
+    "A great deal",
+    "Somewhat",
+    "Not very much",
+    "Not at all"
+   ],
+   "distribution": [
+    0.5436625745191432,
+    0.37157914663223773,
+    0.0727094622881498,
+    0.012048816560469279
+   ],
+   "n": 3309
+  },
+  {
+   "var": "newsrestrict",
+   "question": "How concerned are you, if at all, about potential restrictions on press freedoms in the United States?",
+   "audience": "United States adults",
+   "options": [
+    "Extremely concerned",
+    "Very concerned",
+    "Somewhat concerned",
+    "A little concerned",
+    "Not at all concerned"
+   ],
+   "distribution": [
+    0.18898459549317387,
+    0.2264072823468529,
+    0.29596560196111127,
+    0.17624454151489816,
+    0.11239797868396377
+   ],
+   "n": 3564
+  },
+  {
+   "var": "newsprotect",
+   "question": "Which comes closer to your own view, even if neither is exactly right?",
+   "audience": "United States adults",
+   "options": [
+    "The freedom of the press should always be protected, even if it means false information could be published",
+    "The publication of false information should always be prevented, even if it means the freedom of the press could be limi"
+   ],
+   "distribution": [
+    0.47418278209490466,
+    0.5258172179050953
+   ],
+   "n": 3530
+  },
+  {
+   "var": "bestage_marry",
+   "question": "In your opinion, what is the best age to Get married?",
+   "audience": "United States adults",
+   "options": [
+    "95 or above",
+    "No best age",
+    "Never (should never get married)"
+   ],
+   "distribution": [
+    0.0,
+    0.9366904398707919,
+    0.06330956012920808
+   ],
+   "n": 1774
+  },
+  {
+   "var": "bestage_child",
+   "question": "In your opinion, what is the best age to Have your first child?",
+   "audience": "United States adults",
+   "options": [
+    "95 or above",
+    "No best age",
+    "Never (should never have children)"
+   ],
+   "distribution": [
+    0.0,
+    0.9341052175778669,
+    0.06589478242213313
+   ],
+   "n": 1406
+  },
+  {
+   "var": "bestage_house",
+   "question": "In your opinion, what is the best age to Buy a home?",
+   "audience": "United States adults",
+   "options": [
+    "95 or above",
+    "No best age",
+    "Never (should never buy a home)"
+   ],
+   "distribution": [
+    0.0,
+    0.9645077830228131,
+    0.035492216977186915
+   ],
+   "n": 1782
+  },
+  {
+   "var": "bestage_retire",
+   "question": "In your opinion, what is the best age to Retire?",
+   "audience": "United States adults",
+   "options": [
+    "95 or above",
+    "No best age",
+    "Never (should never retire)"
+   ],
+   "distribution": [
+    0.0,
+    0.937708614720719,
+    0.06229138527928111
+   ],
+   "n": 1231
+  }
+ ]
+}

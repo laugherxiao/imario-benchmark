@@ -1,0 +1,12 @@
+{
+ "pop": "India",
+ "n_people": 1000,
+ "n_questions": 119,
+ "raw_1tv": 0.8917316552410451,
+ "raw_1tv_ci": 0.013620613875415535,
+ "one_mae": 0.9392472932253176,
+ "tiers": {
+  "drift": 19,
+  "similar_calibrate": 100
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "pop": "US_pew",
+ "n_people": 1000,
+ "n_questions": 117,
+ "raw_1tv": 0.9129079011486049,
+ "raw_1tv_ci": 0.011654632799695941,
+ "one_mae": 0.9503278615840606,
+ "tiers": {
+  "drift": 21,
+  "readout": 80,
+  "grounded": 16
+ }
+}

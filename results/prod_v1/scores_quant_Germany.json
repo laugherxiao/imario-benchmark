@@ -1,0 +1,12 @@
+{
+ "pop": "Germany",
+ "n_people": 1000,
+ "n_questions": 72,
+ "raw_1tv": 0.893255209968103,
+ "raw_1tv_ci": 0.012951199604462987,
+ "one_mae": 0.9438518458700099,
+ "tiers": {
+  "drift": 19,
+  "readout": 53
+ }
+}

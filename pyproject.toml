@@ -1,0 +1,19 @@
+[project]
+name = "imario-benchmark"
+version = "1.0.0"
+description = "Open, reproducible validity benchmark for the iMario synthetic-audience engine — group distribution accuracy vs real public surveys, independently verifiable from the published per-person answers."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "Apache-2.0" }
+authors = [{ name = "iMario" }]
+keywords = ["synthetic-audience", "survey", "benchmark", "public-opinion", "validity"]
+
+# score.py needs NOTHING beyond the Python standard library — just `python score.py`.
+# These optional deps are only for regenerating the question bank from raw microdata
+# (data/extraction/), which maintainers/auditors do after downloading the licensed sources.
+[project.optional-dependencies]
+extraction = ["numpy>=1.24", "pandas>=2.0", "pyreadstat>=1.2", "pypdf>=4.0", "pdfplumber>=0.11"]
+
+[project.urls]
+Homepage = "https://imario.ai"
+Repository = "https://github.com/imario-ai/imario-benchmark"

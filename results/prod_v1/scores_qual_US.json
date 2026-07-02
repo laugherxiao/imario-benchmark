@@ -1,0 +1,56 @@
+{
+ "pop": "US",
+ "n_questions": 8,
+ "raw_1tv": 0.8175841686524744,
+ "one_mae": 0.9771980210815593,
+ "per_q": [
+  {
+   "q": "like_dem_candidate",
+   "n_verbatims": 664,
+   "tv": 0.8203656934437933,
+   "mae": 0.9775457116804741
+  },
+  {
+   "q": "dislike_dem_candidate",
+   "n_verbatims": 675,
+   "tv": 0.844271460372013,
+   "mae": 0.9805339325465016
+  },
+  {
+   "q": "like_rep_candidate",
+   "n_verbatims": 659,
+   "tv": 0.8064210502428175,
+   "mae": 0.9758026312803522
+  },
+  {
+   "q": "dislike_rep_candidate",
+   "n_verbatims": 636,
+   "tv": 0.8314612696040324,
+   "mae": 0.978932658700504
+  },
+  {
+   "q": "like_dem_party",
+   "n_verbatims": 663,
+   "tv": 0.7882589834723029,
+   "mae": 0.9735323729340378
+  },
+  {
+   "q": "dislike_dem_party",
+   "n_verbatims": 636,
+   "tv": 0.8178288407718368,
+   "mae": 0.9772286050964796
+  },
+  {
+   "q": "like_rep_party",
+   "n_verbatims": 621,
+   "tv": 0.8301631608040063,
+   "mae": 0.9787703951005008
+  },
+  {
+   "q": "dislike_rep_party",
+   "n_verbatims": 649,
+   "tv": 0.8019028905089931,
+   "mae": 0.9752378613136241
+  }
+ ]
+}

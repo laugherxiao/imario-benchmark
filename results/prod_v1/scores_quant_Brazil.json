@@ -1,0 +1,13 @@
+{
+ "pop": "Brazil",
+ "n_people": 1000,
+ "n_questions": 95,
+ "raw_1tv": 0.8731998254464929,
+ "raw_1tv_ci": 0.01776543442947794,
+ "one_mae": 0.9322586190870298,
+ "tiers": {
+  "drift": 20,
+  "similar_calibrate": 74,
+  "readout": 1
+ }
+}

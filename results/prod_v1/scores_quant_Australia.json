@@ -1,0 +1,12 @@
+{
+ "pop": "Australia",
+ "n_people": 1000,
+ "n_questions": 70,
+ "raw_1tv": 0.8980482942137867,
+ "raw_1tv_ci": 0.016902072158281062,
+ "one_mae": 0.9440628468607408,
+ "tiers": {
+  "drift": 18,
+  "readout": 52
+ }
+}

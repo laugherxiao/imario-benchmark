@@ -1,0 +1,14 @@
+{
+ "run_id": "prod_v1",
+ "populations": [
+  "US"
+ ],
+ "n": 1000,
+ "qual_n": 1000,
+ "engine": "production gpt-5.5 readout + similar-topic calibration (LOO novel; prior=None)",
+ "persona": "deep 9-chapter, reflection OFF",
+ "allocation": "StanceAllocator largest-remainder, uniform plausibility",
+ "datasets": {
+  "US": "anes_2024_full.json"
+ }
+}

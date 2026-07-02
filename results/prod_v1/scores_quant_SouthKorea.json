@@ -1,0 +1,12 @@
+{
+ "pop": "SouthKorea",
+ "n_people": 1000,
+ "n_questions": 66,
+ "raw_1tv": 0.8847915913528239,
+ "raw_1tv_ci": 0.017167921243958426,
+ "one_mae": 0.9345629748833676,
+ "tiers": {
+  "drift": 14,
+  "readout": 52
+ }
+}

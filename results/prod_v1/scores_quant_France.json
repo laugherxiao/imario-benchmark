@@ -1,0 +1,13 @@
+{
+ "pop": "France",
+ "n_people": 1000,
+ "n_questions": 72,
+ "raw_1tv": 0.8982037543875312,
+ "raw_1tv_ci": 0.015017530880293112,
+ "one_mae": 0.9429358720506882,
+ "tiers": {
+  "drift": 19,
+  "readout": 1,
+  "similar_calibrate": 52
+ }
+}

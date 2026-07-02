@@ -1,0 +1,1012 @@
+{
+ "econ_sit": {
+  "question": "How would you describe the current economic situation in the U.S.?",
+  "options": [
+   "Very good",
+   "Somewhat good",
+   "Somewhat bad",
+   "Very bad"
+  ]
+ },
+ "children_betteroff2": {
+  "question": "When children today in the U.S. grow up, do you think they will be…",
+  "options": [
+   "Better off financially than their parents",
+   "Worse off financially than their parents"
+  ]
+ },
+ "satisfied_democracy": {
+  "question": "How satisfied are you with the way democracy is working in the U.S.?",
+  "options": [
+   "Very satisfied",
+   "Somewhat satisfied",
+   "Not too satisfied",
+   "Not at all satisfied"
+  ]
+ },
+ "fav_us": {
+  "question": "The U.S. // Do you have a favorable or unfavorable opinion of…",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_china": {
+  "question": "China // Do you have a favorable or unfavorable opinion of…",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_eu": {
+  "question": "The European Union // Do you have a favorable or unfavorable opinion of…",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_un": {
+  "question": "The United Nations // Do you have a favorable or unfavorable opinion of…",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_nato": {
+  "question": "NATO, that is, North Atlantic Treaty Organization // Do you have a favorable or unfavorable opinion of…",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_russia": {
+  "question": "Russia // Do you have a favorable or unfavorable opinion of…",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_india": {
+  "question": "India // Do you have a favorable or unfavorable opinion of…",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_mexico": {
+  "question": "Mexico // Do you have a favorable or unfavorable opinion of…",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_brazil": {
+  "question": "Brazil // Do you have a favorable or unfavorable opinion of…",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_uk": {
+  "question": "The United Kingdom // Do you have a favorable or unfavorable opinion of…",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_germany": {
+  "question": "Germany // Do you have a favorable or unfavorable opinion of…",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_france": {
+  "question": "France // Do you have a favorable or unfavorable opinion of…",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "partyfav_rep": {
+  "question": "The Republican Party // Do you have a favorable or unfavorable opinion of each of the following?",
+  "options": [
+   "Very favorable",
+   "Mostly favorable",
+   "Mostly unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "partyfav_dem": {
+  "question": "The Democratic Party // Do you have a favorable or unfavorable opinion of each of the following?",
+  "options": [
+   "Very favorable",
+   "Mostly favorable",
+   "Mostly unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "confid_xi": {
+  "question": "Chinese President Xi Jinping // How much confidence do you have in each of the following leaders to do the right thing regarding world affairs?",
+  "options": [
+   "A lot of confidence",
+   "Some confidence",
+   "Not too much confidence",
+   "No confidence at all",
+   "Never heard of this person"
+  ]
+ },
+ "confid_putin": {
+  "question": "Russian President Vladimir Putin // How much confidence do you have in each of the following leaders to do the right thing regarding world affairs?",
+  "options": [
+   "A lot of confidence",
+   "Some confidence",
+   "Not too much confidence",
+   "No confidence at all",
+   "Never heard of this person"
+  ]
+ },
+ "confid_macron": {
+  "question": "French President Emmanuel Macron // How much confidence do you have in each of the following leaders to do the right thing regarding world affairs?",
+  "options": [
+   "A lot of confidence",
+   "Some confidence",
+   "Not too much confidence",
+   "No confidence at all",
+   "Never heard of this person"
+  ]
+ },
+ "confid_zelenskyy": {
+  "question": "Ukrainian President Volodymyr Zelenskyy // How much confidence do you have in each of the following leaders to do the right thing regarding world affairs?",
+  "options": [
+   "A lot of confidence",
+   "Some confidence",
+   "Not too much confidence",
+   "No confidence at all",
+   "Never heard of this person"
+  ]
+ },
+ "confid_netanyahu": {
+  "question": "Israeli Prime Minister Benjamin Netanyahu // How much confidence do you have in each of the following leaders to do the right thing regarding world affairs?",
+  "options": [
+   "A lot of confidence",
+   "Some confidence",
+   "Not too much confidence",
+   "No confidence at all",
+   "Never heard of this person"
+  ]
+ },
+ "prob_rich_poor": {
+  "question": "The gap between the rich and poor // How much of a problem do you think each of the following is in the U.S. today?",
+  "options": [
+   "A very big problem",
+   "A moderately big problem",
+   "A small problem",
+   "Not a problem at all"
+  ]
+ },
+ "prob_gen_unequal": {
+  "question": "Unequal rights for men and women // How much of a problem do you think each of the following is in the U.S. today?",
+  "options": [
+   "A very big problem",
+   "A moderately big problem",
+   "A small problem",
+   "Not a problem at all"
+  ]
+ },
+ "prob_racediscrim": {
+  "question": "Discrimination against people based on their race or ethnicity // How much of a problem do you think each of the following is in the U.S. today?",
+  "options": [
+   "A very big problem",
+   "A moderately big problem",
+   "A small problem",
+   "Not a problem at all"
+  ]
+ },
+ "prob_reldiscrim": {
+  "question": "Discrimination against people based on their religion // How much of a problem do you think each of the following is in the U.S. today?",
+  "options": [
+   "A very big problem",
+   "A moderately big problem",
+   "A small problem",
+   "Not a problem at all"
+  ]
+ },
+ "prob_misinformation": {
+  "question": "How much of a problem do you think made-up news and information is in the country today?",
+  "options": [
+   "A very big problem",
+   "A moderately big problem",
+   "A small problem",
+   "Not a problem at all"
+  ]
+ },
+ "free_press": {
+  "question": "The media can report the news without government censorship // How important is it to have the following things in our country?",
+  "options": [
+   "Very important",
+   "Somewhat important",
+   "Not too important",
+   "Not important at all"
+  ]
+ },
+ "free_speech": {
+  "question": "People can say what they want without government censorship // How important is it to have the following things in our country?",
+  "options": [
+   "Very important",
+   "Somewhat important",
+   "Not too important",
+   "Not important at all"
+  ]
+ },
+ "free_internet": {
+  "question": "People can use the internet without government censorship // How important is it to have the following things in our country?",
+  "options": [
+   "Very important",
+   "Somewhat important",
+   "Not too important",
+   "Not important at all"
+  ]
+ },
+ "freedom_press": {
+  "question": "How free is the media to report the news? // And in the U.S. …",
+  "options": [
+   "Completely free",
+   "Somewhat free",
+   "Not very free",
+   "Not at all free"
+  ]
+ },
+ "freedom_say": {
+  "question": "How free are people to say what they want? // And in the U.S. …",
+  "options": [
+   "Completely free",
+   "Somewhat free",
+   "Not very free",
+   "Not at all free"
+  ]
+ },
+ "freedom_internet": {
+  "question": "How free are people to use the internet? // And in the U.S. …",
+  "options": [
+   "Completely free",
+   "Somewhat free",
+   "Not very free",
+   "Not at all free"
+  ]
+ },
+ "inequality_merit": {
+  "question": "That some people work harder than others // How much, if at all, do you think each of the following contributes to economic inequality in this country?",
+  "options": [
+   "Contributes a great deal",
+   "Contributes a fair amount",
+   "Contributes not too much",
+   "Contributes not at all"
+  ]
+ },
+ "inequality_opp": {
+  "question": "That some people are born with more opportunities than others // How much, if at all, do you think each of the following contributes to economic inequality in this country?",
+  "options": [
+   "Contributes a great deal",
+   "Contributes a fair amount",
+   "Contributes not too much",
+   "Contributes not at all"
+  ]
+ },
+ "inequality_discrim": {
+  "question": "Discrimination against racial and ethnic minorities // How much, if at all, do you think each of the following contributes to economic inequality in this country?",
+  "options": [
+   "Contributes a great deal",
+   "Contributes a fair amount",
+   "Contributes not too much",
+   "Contributes not at all"
+  ]
+ },
+ "inequality_automation": {
+  "question": "Robots and computers doing work previously done by humans // How much, if at all, do you think each of the following contributes to economic inequality in this country?",
+  "options": [
+   "Contributes a great deal",
+   "Contributes a fair amount",
+   "Contributes not too much",
+   "Contributes not at all"
+  ]
+ },
+ "inequality_edu": {
+  "question": "Problems with our education system // How much, if at all, do you think each of the following contributes to economic inequality in this country?",
+  "options": [
+   "Contributes a great deal",
+   "Contributes a fair amount",
+   "Contributes not too much",
+   "Contributes not at all"
+  ]
+ },
+ "inequality_rich": {
+  "question": "Rich people have too much political influence // How much, if at all, do you think each of the following contributes to economic inequality in this country?",
+  "options": [
+   "Contributes a great deal",
+   "Contributes a fair amount",
+   "Contributes not too much",
+   "Contributes not at all"
+  ]
+ },
+ "econsys_reform": {
+  "question": "Thinking about the U.S., how much would you say the economic system needs to be changed, if at all?",
+  "options": [
+   "It needs to be completely reformed",
+   "It needs major changes",
+   "It needs minor changes",
+   "It doesn’t need to be changed"
+  ]
+ },
+ "usdemocracy_example": {
+  "question": "Which statement comes closest to your own view, even if none are exactly right?Democracy in the U.S.…",
+  "options": [
+   "Is a good example for other countries to follow",
+   "Used to be a good example, but has not been in recent years",
+   "Has never been a good example for other countries to follow"
+  ]
+ },
+ "prezfp": {
+  "question": "Right now, which is more important for President Biden to focus on?",
+  "options": [
+   "Domestic policy",
+   "Foreign policy"
+  ]
+ },
+ "usrespect_import": {
+  "question": "How important, if at all, is it that the U.S. is generally respected by other countries around the world?",
+  "options": [
+   "Very important",
+   "Somewhat important",
+   "Not too important",
+   "Not at all important"
+  ]
+ },
+ "lrngfp_a": {
+  "question": "Preventing the spread of weapons of mass destruction // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_b": {
+  "question": "Strengthening the United Nations // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_c": {
+  "question": "Reducing U.S. military commitments overseas // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_d": {
+  "question": "Limiting the power and influence of Russia // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_e": {
+  "question": "Promoting democracy in other nations // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_f": {
+  "question": "Limiting the power and influence of China // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_g": {
+  "question": "Maintaining the U.S. military advantage over all other countries // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_h": {
+  "question": "Dealing with global climate change // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_i": {
+  "question": "Finding a solution to the conflict between Israelis and Palestinians // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_j": {
+  "question": "Reducing the flow of illegal drugs into our country // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_k": {
+  "question": "The U.S. being a leader in developing artificial intelligence // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_l": {
+  "question": "Promoting and defending human rights in other countries // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_m": {
+  "question": "Reducing the spread of infectious diseases // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_n": {
+  "question": "Limiting the power and influence of Iran // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_o": {
+  "question": "Taking measures to protect the U.S. from terrorist attacks // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_p": {
+  "question": "Getting other countries to assume more of the costs of maintaining world order // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_q": {
+  "question": "Aiding refugees fleeing violence around the world // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_r": {
+  "question": "Limiting the power and influence of North Korea // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_s": {
+  "question": "Strengthening NATO // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_t": {
+  "question": "Supporting Israel // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_u": {
+  "question": "Supporting Ukraine // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "lrngfp_v": {
+  "question": "The U.S. being a leader in space exploration // Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given?",
+  "options": [
+   "Top priority",
+   "Some priority",
+   "No priority"
+  ]
+ },
+ "us_euro_sec": {
+  "question": "Security and defense ties // How important is each of the following for strong relations between the U.S. and Europe?",
+  "options": [
+   "Very important",
+   "Somewhat important",
+   "Not too important",
+   "Not at all important"
+  ]
+ },
+ "us_euro_econ": {
+  "question": "Economic and trade ties // How important is each of the following for strong relations between the U.S. and Europe?",
+  "options": [
+   "Very important",
+   "Somewhat important",
+   "Not too important",
+   "Not at all important"
+  ]
+ },
+ "us_euro_dem": {
+  "question": "Shared democratic values // How important is each of the following for strong relations between the U.S. and Europe?",
+  "options": [
+   "Very important",
+   "Somewhat important",
+   "Not too important",
+   "Not at all important"
+  ]
+ },
+ "growinflu1_china": {
+  "question": "China // For each of the following countries, would you say its influence in the world in recent years has been…",
+  "options": [
+   "Getting stronger",
+   "Getting weaker",
+   "Staying about the same"
+  ]
+ },
+ "growinflu1_russia": {
+  "question": "Russia // For each of the following countries, would you say its influence in the world in recent years has been…",
+  "options": [
+   "Getting stronger",
+   "Getting weaker",
+   "Staying about the same"
+  ]
+ },
+ "growinflu1_india": {
+  "question": "India // For each of the following countries, would you say its influence in the world in recent years has been…",
+  "options": [
+   "Getting stronger",
+   "Getting weaker",
+   "Staying about the same"
+  ]
+ },
+ "growinflu1_germany": {
+  "question": "Germany // For each of the following countries, would you say its influence in the world in recent years has been…",
+  "options": [
+   "Getting stronger",
+   "Getting weaker",
+   "Staying about the same"
+  ]
+ },
+ "growinflu1_france": {
+  "question": "France // For each of the following countries, would you say its influence in the world in recent years has been…",
+  "options": [
+   "Getting stronger",
+   "Getting weaker",
+   "Staying about the same"
+  ]
+ },
+ "growinflu1_uk": {
+  "question": "The United Kingdom // For each of the following countries, would you say its influence in the world in recent years has been…",
+  "options": [
+   "Getting stronger",
+   "Getting weaker",
+   "Staying about the same"
+  ]
+ },
+ "growinflu1_iran": {
+  "question": "Iran // For each of the following countries, would you say its influence in the world in recent years has been…",
+  "options": [
+   "Getting stronger",
+   "Getting weaker",
+   "Staying about the same"
+  ]
+ },
+ "growinflu1_brazil": {
+  "question": "Brazil // For each of the following countries, would you say its influence in the world in recent years has been…",
+  "options": [
+   "Getting stronger",
+   "Getting weaker",
+   "Staying about the same"
+  ]
+ },
+ "growinflu1_country": {
+  "question": "The U.S. // For each of the following countries, would you say its influence in the world in recent years has been…",
+  "options": [
+   "Getting stronger",
+   "Getting weaker",
+   "Staying about the same"
+  ]
+ },
+ "growinflu2_nato": {
+  "question": "NATO, that is, North Atlantic Treaty Organization // For each of the following international organizations, would you say its influence in the world in recent years has been…",
+  "options": [
+   "Getting stronger",
+   "Getting weaker",
+   "Staying about the same"
+  ]
+ },
+ "growinflu2_eu": {
+  "question": "The European Union // For each of the following international organizations, would you say its influence in the world in recent years has been…",
+  "options": [
+   "Getting stronger",
+   "Getting weaker",
+   "Staying about the same"
+  ]
+ },
+ "growinflu2_un": {
+  "question": "The United Nations // For each of the following international organizations, would you say its influence in the world in recent years has been…",
+  "options": [
+   "Getting stronger",
+   "Getting weaker",
+   "Staying about the same"
+  ]
+ },
+ "china_us_enemy": {
+  "question": "On balance, do you think of China as a partner of the U.S., a competitor of the U.S. or an enemy of the U.S.?",
+  "options": [
+   "Partner",
+   "Competitor",
+   "Enemy"
+  ]
+ },
+ "russia_us_enemy": {
+  "question": "On balance, do you think of Russia as a partner of the U.S., a competitor of the U.S. or an enemy of the U.S.?",
+  "options": [
+   "Partner",
+   "Competitor",
+   "Enemy"
+  ]
+ },
+ "brderjob": {
+  "question": "How would you rate the job the U.S. government is doing dealing with the large number of people seeking asylum at the U.S. border with Mexico?",
+  "options": [
+   "Very good job",
+   "Somewhat good job",
+   "Somewhat bad job",
+   "Very bad job"
+  ]
+ },
+ "brderjob_mex": {
+  "question": "How would you rate the job the Mexican government is doing dealing with the large number of people seeking asylum at the U.S. border with Mexico?",
+  "options": [
+   "Very good job",
+   "Somewhat good job",
+   "Somewhat bad job",
+   "Very bad job"
+  ]
+ },
+ "china_influ_econ": {
+  "question": "How much influence do you think China is having on economic conditions in the U.S.?",
+  "options": [
+   "A great deal of influence",
+   "A fair amount of influence",
+   "Not too much influence",
+   "No influence at all"
+  ]
+ },
+ "china_influ_econ2": {
+  "question": "Right now, is China having a positive or negative impact on economic conditions in the U.S.?",
+  "options": [
+   "Positive impact",
+   "Negative impact"
+  ]
+ },
+ "china_disputes": {
+  "question": "How concerned are you about territorial disputes between China and neighboring countries?",
+  "options": [
+   "Very concerned",
+   "Somewhat concerned",
+   "Not too concerned",
+   "Not at all concerned"
+  ]
+ },
+ "nationality_relig": {
+  "question": "Being a Christian // Some people say that the following things are important for being truly American. Others say they are not important for being truly American.How important do you think each of the following is to be truly Americ",
+  "options": [
+   "Very important",
+   "Somewhat important",
+   "Not too important",
+   "Not at all important"
+  ]
+ },
+ "nationality_born": {
+  "question": "Being born in the United States // Some people say that the following things are important for being truly American. Others say they are not important for being truly American.How important do you think each of the following is to be",
+  "options": [
+   "Very important",
+   "Somewhat important",
+   "Not too important",
+   "Not at all important"
+  ]
+ },
+ "nationality_lang": {
+  "question": "Being able to speak English // Some people say that the following things are important for being truly American. Others say they are not important for being truly American.How important do you think each of the following is to be tru",
+  "options": [
+   "Very important",
+   "Somewhat important",
+   "Not too important",
+   "Not at all important"
+  ]
+ },
+ "nationality_custom": {
+  "question": "Sharing American customs and traditions // Some people say that the following things are important for being truly American. Others say they are not important for being truly American.How important do you think each of the followin",
+  "options": [
+   "Very important",
+   "Somewhat important",
+   "Not too important",
+   "Not at all important"
+  ]
+ },
+ "benefitorg_nato": {
+  "question": "North Atlantic Treaty Organization, or NATO // How much, if at all, do you think the U.S. benefits from being a member of each of the following organizations?",
+  "options": [
+   "A great deal",
+   "A fair amount",
+   "Not too much",
+   "Not at all"
+  ]
+ },
+ "benefitorg_un": {
+  "question": "The United Nations // How much, if at all, do you think the U.S. benefits from being a member of each of the following organizations?",
+  "options": [
+   "A great deal",
+   "A fair amount",
+   "Not too much",
+   "Not at all"
+  ]
+ },
+ "benefitorg_who": {
+  "question": "The World Health Organization, or WHO // How much, if at all, do you think the U.S. benefits from being a member of each of the following organizations?",
+  "options": [
+   "A great deal",
+   "A fair amount",
+   "Not too much",
+   "Not at all"
+  ]
+ },
+ "unisgz_aid": {
+  "question": "Provide effective humanitarian aid to Gaza // How much confidence do you have in the ability of the United Nations to…",
+  "options": [
+   "A great deal of confidence",
+   "A fair amount of confidence",
+   "Not too much confidence",
+   "No confidence at all"
+  ]
+ },
+ "unisgz_ceasefire": {
+  "question": "Enforce a ceasefire between Israel and Hamas // How much confidence do you have in the ability of the United Nations to…",
+  "options": [
+   "A great deal of confidence",
+   "A fair amount of confidence",
+   "Not too much confidence",
+   "No confidence at all"
+  ]
+ },
+ "eu_def_spend": {
+  "question": "Now thinking about American allies in Europe, do you think that our European allies’ spending on national defense should…?",
+  "options": [
+   "Increase",
+   "Decrease",
+   "Stay about the same"
+  ]
+ },
+ "ukr_sprt": {
+  "question": "When it comes to Russia’s invasion of Ukraine, do you think the U.S. is providing …",
+  "options": [
+   "Too much support to Ukraine",
+   "Not enough support to Ukraine",
+   "About the right amount of support to Ukraine"
+  ]
+ },
+ "ukr_natsec": {
+  "question": "Do you think supporting Ukraine in its war against Russia…",
+  "options": [
+   "Helps U.S. national security",
+   "Hurts U.S. national security",
+   "Has no impact on U.S. national security"
+  ]
+ },
+ "ua_conc_b": {
+  "question": "Ukraine being defeated and taken over by Russia // How concerned are you about the possibility of each of the following?",
+  "options": [
+   "Extremely concerned",
+   "Very concerned",
+   "Somewhat concerned",
+   "Not too concerned",
+   "Not at all concerned"
+  ]
+ },
+ "ua_conc_d": {
+  "question": "Russia invading other countries in the region, not just Ukraine // How concerned are you about the possibility of each of the following?",
+  "options": [
+   "Extremely concerned",
+   "Very concerned",
+   "Somewhat concerned",
+   "Not too concerned",
+   "Not at all concerned"
+  ]
+ },
+ "ssdo_priorities": {
+  "question": "In setting priorities for the U.S., we must consider all groups // There are many kinds of groups in the world: different genders, ethnic and religious groups, nationalities, and political groups. Do you favor or oppose each of the fo",
+  "options": [
+   "Strongly favor",
+   "Somewhat favor",
+   "Somewhat oppose",
+   "Strongly oppose"
+  ]
+ },
+ "ssdo_push": {
+  "question": "We should NOT push for equality between all groups // There are many kinds of groups in the world: different genders, ethnic and religious groups, nationalities, and political groups. Do you favor or oppose each of the following ideas about",
+  "options": [
+   "Strongly favor",
+   "Somewhat favor",
+   "Somewhat oppose",
+   "Strongly oppose"
+  ]
+ },
+ "ssdo_ideal": {
+  "question": "Group equality should be our ideal // There are many kinds of groups in the world: different genders, ethnic and religious groups, nationalities, and political groups. Do you favor or oppose each of the following ideas about groups in the",
+  "options": [
+   "Strongly favor",
+   "Somewhat favor",
+   "Somewhat oppose",
+   "Strongly oppose"
+  ]
+ },
+ "ssdo_dominate": {
+  "question": "Superior groups should dominate inferior groups // There are many kinds of groups in the world: different genders, ethnic and religious groups, nationalities, and political groups. Do you favor or oppose each of the following ideas abou",
+  "options": [
+   "Strongly favor",
+   "Somewhat favor",
+   "Somewhat oppose",
+   "Strongly oppose"
+  ]
+ },
+ "nato_region": {
+  "question": "NATO is an international alliance with member states concentrated in which two regions of the world?",
+  "options": [
+   "North America and the Asia Pacific",
+   "Europe and Asia",
+   "The Middle East and North Africa",
+   "Europe and North America"
+  ]
+ },
+ "nato_focus": {
+  "question": "Which of the following is a central focus of NATO?",
+  "options": [
+   "Promoting trade among its members",
+   "Prosecuting international crimes",
+   "Reducing the effects of climate change",
+   "Promoting the security of its members"
+  ]
+ },
+ "nato_know": {
+  "question": "Which of the following countries is NOT a member of NATO?",
+  "options": [
+   "Estonia",
+   "Turkey",
+   "Bulgaria",
+   "Ukraine"
+  ]
+ },
+ "newssociety": {
+  "question": "Overall, how important do you think the freedom of the press is to the well-being of society?",
+  "options": [
+   "Extremely important",
+   "Very important",
+   "Somewhat important",
+   "A little important",
+   "Not at all important"
+  ]
+ },
+ "newscorp": {
+  "question": "How much, if at all, do you think that U.S. news organizations are influenced by corporations and financial interests?",
+  "options": [
+   "A great deal",
+   "Somewhat",
+   "Not very much",
+   "Not at all"
+  ]
+ },
+ "newsgovt": {
+  "question": "How much, if at all, do you think that U.S. news organizations are influenced by government and political interests?",
+  "options": [
+   "A great deal",
+   "Somewhat",
+   "Not very much",
+   "Not at all"
+  ]
+ },
+ "newsrestrict": {
+  "question": "How concerned are you, if at all, about potential restrictions on press freedoms in the United States?",
+  "options": [
+   "Extremely concerned",
+   "Very concerned",
+   "Somewhat concerned",
+   "A little concerned",
+   "Not at all concerned"
+  ]
+ },
+ "newsprotect": {
+  "question": "Which comes closer to your own view, even if neither is exactly right?",
+  "options": [
+   "The freedom of the press should always be protected, even if it means false information could be published",
+   "The publication of false information should always be prevented, even if it means the freedom of the press could be limi"
+  ]
+ },
+ "bestage_marry": {
+  "question": "Get married // In your opinion, what is the best age to do each of the following things?",
+  "options": [
+   "95 or above",
+   "No best age",
+   "Never (should never get married)"
+  ]
+ },
+ "bestage_child": {
+  "question": "Have your first child // In your opinion, what is the best age to do each of the following things?",
+  "options": [
+   "95 or above",
+   "No best age",
+   "Never (should never have children)"
+  ]
+ },
+ "bestage_house": {
+  "question": "Buy a home // In your opinion, what is the best age to do each of the following things?",
+  "options": [
+   "95 or above",
+   "No best age",
+   "Never (should never buy a home)"
+  ]
+ },
+ "bestage_retire": {
+  "question": "Retire // In your opinion, what is the best age to do each of the following things?",
+  "options": [
+   "95 or above",
+   "No best age",
+   "Never (should never retire)"
+  ]
+ }
+}

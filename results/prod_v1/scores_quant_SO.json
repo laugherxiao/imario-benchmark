@@ -1,0 +1,12 @@
+{
+ "pop": "SO",
+ "n_people": 1000,
+ "n_questions": 13,
+ "raw_1tv": 0.8732069869083057,
+ "raw_1tv_ci": 0.03375198725228716,
+ "one_mae": 0.9514713350212366,
+ "tiers": {
+  "similar_calibrate": 8,
+  "drift": 5
+ }
+}

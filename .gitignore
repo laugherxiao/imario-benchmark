@@ -1,0 +1,33 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.venv/
+venv/
+.env
+.imario/
+token
+*.token
+.DS_Store
+**/.DS_Store
+
+# ── Licensed raw survey data — NOT redistributable (Pew/CGSS/ANES terms) ──
+data/raw/
+history/
+
+# ── Private calibration-library artifacts (prior-DB question exports live in calibration_data/) ──
+data/processed/questionnaires/DB_*.csv
+
+# ── Process / intermediate artifacts (regenerable; not for public repo) ──
+db_backup/
+# results/: publish ONLY the official prod_v1 run; every other run is an internal experiment
+results/*
+!results/prod_v1/
+!results/README.md
+**/cohort_*.json
+**/responses_*.jsonl
+**/readouts_*.json
+data/processed/_original_backup/
+data/processed/clean/

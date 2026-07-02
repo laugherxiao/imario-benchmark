@@ -1,0 +1,334 @@
+{
+ "dataset": "Stack Overflow Annual Developer Survey 2025",
+ "source_url": "https://survey.stackoverflow.co/",
+ "fieldwork_year": 2025,
+ "audience_type": "niche",
+ "audiences": [
+  "professional software developers"
+ ],
+ "weight_variable": "",
+ "question_filter": "single-select opinion/behavior items, 2-15 options, base n>=100, demographics & routing excluded",
+ "n_cells": 15,
+ "n_unique_questions": 15,
+ "extracted_on": "2026-06-26",
+ "cells": [
+  {
+   "var": "LearnCodeAI",
+   "question": "Did you spend time in the last year learning AI programming or AI-enabled tooling on your own or at work?",
+   "audience": "professional software developers",
+   "options": [
+    "Yes, I learned how to use AI-enabled tools required for my job or to benefit my career",
+    "Yes, I learned how to use AI-enabled tools for my personal curiosity and/or hobbies",
+    "No, I learned something that was not related to AI or AI enablement as required for my job or to benefit my career",
+    "No, I didn't spend time learning in the past year",
+    "No, I learned something that was not related to AI or AI enablement for my personal curiosity and/or hobbies"
+   ],
+   "distribution": [
+    0.4003510084299566,
+    0.30129182610697125,
+    0.10254049543976752,
+    0.09836867393618552,
+    0.09744799608711914
+   ],
+   "n": 34757
+  },
+  {
+   "var": "PurchaseInfluence",
+   "question": "Have you <strong>influenced or endorsed</strong> a new technology purchase at your organization or sole proprietor job in the past year?",
+   "audience": "professional software developers",
+   "options": [
+    "No",
+    "Yes, I influenced the purchase of a substantial addition to the tech stack",
+    "Yes, I endorsed a tool that was open-source and is currently used by more than just myself but no purchase was made",
+    "Yes, I influenced the purchase of a tool that more than five colleagues use but it is not a substantial addition to the tech stack",
+    "Yes, I endorsed a tool that was ultimately not purchased or used at my organization"
+   ],
+   "distribution": [
+    0.5287297582164873,
+    0.19882461911910312,
+    0.15573796671883483,
+    0.08128653102941646,
+    0.03542112491615829
+   ],
+   "n": 31309
+  },
+  {
+   "var": "AIThreat",
+   "question": "Do you believe AI is a threat to your current job?",
+   "audience": "professional software developers",
+   "options": [
+    "No",
+    "I'm not sure",
+    "Yes"
+   ],
+   "distribution": [
+    0.6394723636102947,
+    0.21220159151193635,
+    0.14832604487776901
+   ],
+   "n": 27898
+  },
+  {
+   "var": "NewRole",
+   "question": "Have you considered a career change or transitioned into a new role in the past year?",
+   "audience": "professional software developers",
+   "options": [
+    "I have neither consider or transitioned into a new career or industry",
+    "I have somewhat considered changing my career and/or the industry I work in",
+    "I have strongly considered changing my career and/or the industry I work in",
+    "I have transitioned into a new career and/or industry voluntarily",
+    "I have transitioned into a new career and/or industry involuntarily"
+   ],
+   "distribution": [
+    0.46201865495590316,
+    0.2984067070736399,
+    0.13773454796210938,
+    0.08325772148223425,
+    0.018582368526113308
+   ],
+   "n": 27553
+  },
+  {
+   "var": "SOVisitFreq",
+   "question": "How frequently would you say you visit Stack Overflow?",
+   "audience": "professional software developers",
+   "options": [
+    "A few times per month or weekly",
+    "A few times per week",
+    "Daily or almost daily",
+    "Less than once per month or monthly",
+    "Multiple times per day",
+    "Less than once every 2 - 3 months",
+    "Infrequently, less than once per year"
+   ],
+   "distribution": [
+    0.2903836296968024,
+    0.2880179789457083,
+    0.17655640105665735,
+    0.09781965855774159,
+    0.08827820052832867,
+    0.037534991917359935,
+    0.021409139297401725
+   ],
+   "n": 25363
+  },
+  {
+   "var": "SODuration",
+   "question": "How long have you used Stack Overflow?",
+   "audience": "professional software developers",
+   "options": [
+    "Between 10 and 15 years",
+    "Between 5 and 10 years",
+    "More than 15 years, or since Stack Overflow started in 2008",
+    "Between 3 and 5 years",
+    "Between 1 and 3 years",
+    "Less than one year",
+    "I don't use Stack Overflow"
+   ],
+   "distribution": [
+    0.3634925656437836,
+    0.32707212907307814,
+    0.13318570072761785,
+    0.10918222081619741,
+    0.046108826320784564,
+    0.011111989876621322,
+    0.009846567541917114
+   ],
+   "n": 25288
+  },
+  {
+   "var": "SOPartFreq",
+   "question": "How frequently would you say you participate in Q&amp;A on Stack Overflow? By participate we mean ask, answer, and vote or comment on questions.",
+   "audience": "professional software developers",
+   "options": [
+    "Infrequently, less than once per year",
+    "I have never participated in Q&A on Stack Overflow",
+    "Less than once every 2 - 3 months",
+    "Less than once per month or monthly",
+    "A few times per month or weekly",
+    "A few times per week",
+    "Daily or almost daily",
+    "Multiple times per day"
+   ],
+   "distribution": [
+    0.3915585455710396,
+    0.28279673234022107,
+    0.14712477975332372,
+    0.07784718885151369,
+    0.06042767900048054,
+    0.02466762774307224,
+    0.010371616210155374,
+    0.0052058305301938175
+   ],
+   "n": 24972
+  },
+  {
+   "var": "SOComm",
+   "question": "Do you consider yourself a member of the Stack Overflow community?",
+   "audience": "professional software developers",
+   "options": [
+    "No, not really",
+    "Yes, somewhat",
+    "Neutral",
+    "No, not at all",
+    "Yes, definitely",
+    "Not sure"
+   ],
+   "distribution": [
+    0.3172318451654875,
+    0.23615515979507196,
+    0.19964218915182566,
+    0.141375945352525,
+    0.09851996421891518,
+    0.0070748963161746765
+   ],
+   "n": 24594
+  },
+  {
+   "var": "SOFriction",
+   "question": "When you visit Stack Overflow, how often is it a result of encountering issues from AI or AI-enabled tools that require extra time or effort to fix, understand, or debug?",
+   "audience": "professional software developers",
+   "options": [
+    "Rarely, almost never",
+    "I don't use AI or AI-enabled tools",
+    "Less than half of the time",
+    "About half of the time",
+    "More than half the time"
+   ],
+   "distribution": [
+    0.44039041554959785,
+    0.20459115281501342,
+    0.18934316353887398,
+    0.09136226541554959,
+    0.07431300268096515
+   ],
+   "n": 23872
+  },
+  {
+   "var": "AISelect",
+   "question": "Do you currently use AI tools in your development process?",
+   "audience": "professional software developers",
+   "options": [
+    "Yes, I use AI tools daily",
+    "Yes, I use AI tools weekly",
+    "No, and I don't plan to",
+    "Yes, I use AI tools monthly or infrequently",
+    "No, but I plan to soon"
+   ],
+   "distribution": [
+    0.5064695718947975,
+    0.1736993664810904,
+    0.14670762142445767,
+    0.127433288539067,
+    0.045690151660587444
+   ],
+   "n": 26045
+  },
+  {
+   "var": "AISent",
+   "question": "How favorable is your stance on using AI tools as part of your development workflow?",
+   "audience": "professional software developers",
+   "options": [
+    "Favorable",
+    "Very favorable",
+    "Indifferent",
+    "Unfavorable",
+    "Very unfavorable",
+    "Unsure"
+   ],
+   "distribution": [
+    0.37670676517232043,
+    0.23540788303098287,
+    0.17398367694271458,
+    0.10551966889722662,
+    0.09085986152477468,
+    0.017522144431980816
+   ],
+   "n": 25853
+  },
+  {
+   "var": "AIAcc",
+   "question": "How much do you trust the accuracy of the output from AI tools as part of your development workflow?",
+   "audience": "professional software developers",
+   "options": [
+    "Somewhat trust",
+    "Somewhat distrust",
+    "Neither trust nor distrust",
+    "Highly distrust",
+    "Highly trust"
+   ],
+   "distribution": [
+    0.29651501612339254,
+    0.262908426900812,
+    0.2166362329538832,
+    0.1965111309685691,
+    0.027429193053343175
+   ],
+   "n": 25739
+  },
+  {
+   "var": "AIComplex",
+   "question": "How well do the AI tools you use in your development workflow handle complex tasks?",
+   "audience": "professional software developers",
+   "options": [
+    "Good, but not great at handling complex tasks",
+    "Bad at handling complex tasks",
+    "Very poor at handling complex tasks",
+    "I don't use AI tools for complex tasks / I don't know",
+    "Neither good or bad at handling complex tasks",
+    "Very well at handling complex tasks"
+   ],
+   "distribution": [
+    0.25177787277037267,
+    0.22780087824971826,
+    0.18633661057785722,
+    0.1529942097695566,
+    0.1423852640578246,
+    0.03870516457467066
+   ],
+   "n": 25733
+  },
+  {
+   "var": "AIAgents",
+   "question": "Are you using AI agents in your work (development or otherwise)?  AI agents refer to autonomous software entities that can operate with minimal to no direct human intervention using artificial intelligence techniques.",
+   "audience": "professional software developers",
+   "options": [
+    "No, and I don't plan to",
+    "No, but I plan to",
+    "Yes, I use AI agents at work daily",
+    "No, I use AI exclusively in copilot/autocomplete mode",
+    "Yes, I use AI agents at work weekly",
+    "Yes, I use AI agents at work monthly or infrequently"
+   ],
+   "distribution": [
+    0.366824032602994,
+    0.17237622563854255,
+    0.148973086389864,
+    0.14219424605576403,
+    0.09236169955211233,
+    0.07727070976072307
+   ],
+   "n": 24783
+  },
+  {
+   "var": "AIAgentChange",
+   "question": "Have AI tools or AI agents changed how you complete development work in the past year?",
+   "audience": "professional software developers",
+   "options": [
+    "Not at all or minimally",
+    "Yes, somewhat",
+    "Yes, to a great extent",
+    "No, but my development work has changed somewhat due to non-AI factors",
+    "No, but my development work has significantly changed due to non-AI factors"
+   ],
+   "distribution": [
+    0.4157458563535912,
+    0.3595628859278518,
+    0.16249593760155995,
+    0.04070523236919077,
+    0.021490087747806304
+   ],
+   "n": 24616
+  }
+ ]
+}

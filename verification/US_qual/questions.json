@@ -1,0 +1,10 @@
+{
+ "like_dem_candidate": "Is there anything in particular about Kamala Harris, the Democratic presidential candidate, that might make you want to vote FOR her?",
+ "dislike_dem_candidate": "Is there anything in particular about Kamala Harris that might make you want to vote AGAINST her?",
+ "like_rep_candidate": "Is there anything in particular about Donald Trump, the Republican presidential candidate, that might make you want to vote FOR him?",
+ "dislike_rep_candidate": "Is there anything in particular about Donald Trump that might make you want to vote AGAINST him?",
+ "like_dem_party": "Is there anything in particular that you LIKE about the Democratic Party?",
+ "dislike_dem_party": "Is there anything in particular that you DON'T LIKE about the Democratic Party?",
+ "like_rep_party": "Is there anything in particular that you LIKE about the Republican Party?",
+ "dislike_rep_party": "Is there anything in particular that you DON'T LIKE about the Republican Party?"
+}

@@ -1,0 +1,1046 @@
+{
+ "econ_sit": {
+  "question": "How would you describe the current economic situation in (survey country) – is it very good, somewhat good, somewhat bad or very bad?",
+  "options": [
+   "Very good",
+   "Somewhat good",
+   "Somewhat bad",
+   "Very bad"
+  ]
+ },
+ "satisfied_democracy": {
+  "question": "How satisfied are you with the way democracy is working in (survey country) – very satisfied, somewhat satisfied, not too satisfied, or not at all satisfied?",
+  "options": [
+   "Very satisfied",
+   "Somewhat satisfied",
+   "Not too satisfied",
+   "Not at all satisfied"
+  ]
+ },
+ "fav_us": {
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of …? — The United States",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_china": {
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of …? — China",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_eu": {
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of …? — The European Union",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_un": {
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of …? — The United Nations",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_russia": {
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of …? — Russia",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_israel": {
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of …? — Israel",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_india": {
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of …? — India",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_pakistan": {
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of …? — Pakistan",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_bangladesh": {
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of …? — Bangladesh",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_rahul_gandhi": {
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of …? — Rahul Gandhi",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "fav_modi": {
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of …? — Narendra Modi",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "partyfav_india_bjp": {
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ...? — Bharatiya Janata Party - BJP",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "partyfav_india_inc": {
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ...? — Indian National Congress - INC",
+  "options": [
+   "Very favorable",
+   "Somewhat favorable",
+   "Somewhat unfavorable",
+   "Very unfavorable"
+  ]
+ },
+ "confid_trump": {
+  "question": "Tell me how much confidence you have in each leader to do the right thing regarding world affairs — U.S. President Donald Trump",
+  "options": [
+   "A lot of confidence",
+   "Some confidence",
+   "Not too much confidence",
+   "No confidence at all",
+   "Never heard of this person"
+  ]
+ },
+ "confid_xi": {
+  "question": "Tell me how much confidence you have in each leader to do the right thing regarding world affairs — Chinese President Xi Jinping",
+  "options": [
+   "A lot of confidence",
+   "Some confidence",
+   "Not too much confidence",
+   "No confidence at all",
+   "Never heard of this person"
+  ]
+ },
+ "confid_putin": {
+  "question": "Tell me how much confidence you have in each leader to do the right thing regarding world affairs — Russian President Vladimir Putin",
+  "options": [
+   "A lot of confidence",
+   "Some confidence",
+   "Not too much confidence",
+   "No confidence at all",
+   "Never heard of this person"
+  ]
+ },
+ "confid_macron": {
+  "question": "Tell me how much confidence you have in each leader to do the right thing regarding world affairs — French President Emmanuel Macron",
+  "options": [
+   "A lot of confidence",
+   "Some confidence",
+   "Not too much confidence",
+   "No confidence at all",
+   "Never heard of this person"
+  ]
+ },
+ "confid_netanyahu": {
+  "question": "Tell me how much confidence you have in each leader to do the right thing regarding world affairs — Israeli Prime Minister Benjamin Netanyahu",
+  "options": [
+   "A lot of confidence",
+   "Some confidence",
+   "Not too much confidence",
+   "No confidence at all",
+   "Never heard of this person"
+  ]
+ },
+ "confid_zelenskyy": {
+  "question": "Tell me how much confidence you have in each leader to do the right thing regarding world affairs — Ukrainian President Volodymyr Zelenskyy",
+  "options": [
+   "A lot of confidence",
+   "Some confidence",
+   "Not too much confidence",
+   "No confidence at all",
+   "Never heard of this person"
+  ]
+ },
+ "trump_personality_qualified": {
+  "question": "Please tell me whether you think the following describes U.S. President Donald Trump. Do you think of Donald Trump as ...? — Well-qualified to be president",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "trump_personality_strong": {
+  "question": "Please tell me whether you think the following describes U.S. President Donald Trump. Do you think of Donald Trump as ...? — A strong leader",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "trump_personality_honest": {
+  "question": "Please tell me whether you think the following describes U.S. President Donald Trump. Do you think of Donald Trump as ...? — Honest",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "trump_personality_dangerous": {
+  "question": "Please tell me whether you think the following describes U.S. President Donald Trump. Do you think of Donald Trump as ...? — Dangerous",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "trump_personality_complex": {
+  "question": "Please tell me whether you think the following describes U.S. President Donald Trump. Do you think of Donald Trump as ...? — Able to understand complex problems",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "trump_personality_diplomatic": {
+  "question": "Please tell me whether you think the following describes U.S. President Donald Trump. Do you think of Donald Trump as ...? — Diplomatic",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "trump_personality_arrogant": {
+  "question": "Please tell me whether you think the following describes U.S. President Donald Trump. Do you think of Donald Trump as ...? — Arrogant",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "trump_handling_econ": {
+  "question": "How much confidence do you have in U.S. President Donald Trump to handle each of the following issues? — Global economic problems",
+  "options": [
+   "A lot of confidence",
+   "Some confidence",
+   "Not too much confidence",
+   "No confidence at all"
+  ]
+ },
+ "trump_handling_climate": {
+  "question": "How much confidence do you have in U.S. President Donald Trump to handle each of the following issues? — Climate change",
+  "options": [
+   "A lot of confidence",
+   "Some confidence",
+   "Not too much confidence",
+   "No confidence at all"
+  ]
+ },
+ "trump_handling_china": {
+  "question": "How much confidence do you have in U.S. President Donald Trump to handle each of the following issues? — Relations between China and the United States",
+  "options": [
+   "A lot of confidence",
+   "Some confidence",
+   "Not too much confidence",
+   "No confidence at all"
+  ]
+ },
+ "trump_handling_rusukr": {
+  "question": "How much confidence do you have in U.S. President Donald Trump to handle each of the following issues? — The conflict between Russia and Ukraine",
+  "options": [
+   "A lot of confidence",
+   "Some confidence",
+   "Not too much confidence",
+   "No confidence at all"
+  ]
+ },
+ "trump_handling_isrneigh": {
+  "question": "How much confidence do you have in U.S. President Donald Trump to handle each of the following issues? — The conflict between Israel and its neighbors",
+  "options": [
+   "A lot of confidence",
+   "Some confidence",
+   "Not too much confidence",
+   "No confidence at all"
+  ]
+ },
+ "trump_handling_immigration": {
+  "question": "How much confidence do you have in U.S. President Donald Trump to handle each of the following issues? — United States' immigration policies",
+  "options": [
+   "A lot of confidence",
+   "Some confidence",
+   "Not too much confidence",
+   "No confidence at all"
+  ]
+ },
+ "usdem_works": {
+  "question": "Thinking about democracy in the United States, would you say it works very well, somewhat well, somewhat poorly or very poorly?",
+  "options": [
+   "Very well",
+   "Somewhat well",
+   "Somewhat poorly",
+   "Very poorly"
+  ]
+ },
+ "conflict_usparties": {
+  "question": "In your opinion, in the United States, are the conflicts between people who support different political parties very strong, strong, not very strong or are there no conflicts at all?",
+  "options": [
+   "Very strong conflicts",
+   "Strong conflicts",
+   "Not very strong conflicts",
+   "There are no conflicts at all"
+  ]
+ },
+ "econ_power": {
+  "question": "Today, which ONE of the following do you think is the world’s leading economic power?",
+  "options": [
+   "The United States",
+   "China",
+   "Japan",
+   "The countries of the European Union",
+   "Other",
+   "None / There is no leading economic power"
+  ]
+ },
+ "us_or_china": {
+  "question": "Is it more important for (survey country) to have strong economic ties with ...?",
+  "options": [
+   "China",
+   "The United States",
+   "Economic ties to both countries are equally important",
+   "Neither"
+  ]
+ },
+ "moral_state": {
+  "question": "Generally, how would you rate the morality and ethics of (survey country nationality)s – are their morals very good, somewhat good, somewhat bad or very bad?",
+  "options": [
+   "Very good",
+   "Somewhat good",
+   "Somewhat bad",
+   "Very bad"
+  ]
+ },
+ "moral_affair": {
+  "question": "Do you personally believe that each of the following is morally acceptable, morally unacceptable, or is it not a moral issue? — Married people having an affair",
+  "options": [
+   "Morally acceptable",
+   "Morally unacceptable",
+   "Not a moral issue",
+   "Depends on situation"
+  ]
+ },
+ "moral_homosexuality": {
+  "question": "Do you personally believe that each of the following is morally acceptable, morally unacceptable, or is it not a moral issue? — Homosexuality",
+  "options": [
+   "Morally acceptable",
+   "Morally unacceptable",
+   "Not a moral issue",
+   "Depends on situation"
+  ]
+ },
+ "moral_abortion": {
+  "question": "Do you personally believe that each of the following is morally acceptable, morally unacceptable, or is it not a moral issue? — Having an abortion",
+  "options": [
+   "Morally acceptable",
+   "Morally unacceptable",
+   "Not a moral issue",
+   "Depends on situation"
+  ]
+ },
+ "moral_gambling": {
+  "question": "Do you personally believe that each of the following is morally acceptable, morally unacceptable, or is it not a moral issue? — Gambling",
+  "options": [
+   "Morally acceptable",
+   "Morally unacceptable",
+   "Not a moral issue",
+   "Depends on situation"
+  ]
+ },
+ "moral_contraceptives": {
+  "question": "Do you personally believe that each of the following is morally acceptable, morally unacceptable, or is it not a moral issue? — Using contraceptives",
+  "options": [
+   "Morally acceptable",
+   "Morally unacceptable",
+   "Not a moral issue",
+   "Depends on situation"
+  ]
+ },
+ "moral_marijuana": {
+  "question": "Do you personally believe that each of the following is morally acceptable, morally unacceptable, or is it not a moral issue? — Using marijuana",
+  "options": [
+   "Morally acceptable",
+   "Morally unacceptable",
+   "Not a moral issue",
+   "Depends on situation"
+  ]
+ },
+ "moral_alcohol": {
+  "question": "Do you personally believe that each of the following is morally acceptable, morally unacceptable, or is it not a moral issue? — Drinking alcohol",
+  "options": [
+   "Morally acceptable",
+   "Morally unacceptable",
+   "Not a moral issue",
+   "Depends on situation"
+  ]
+ },
+ "moral_divorce": {
+  "question": "Do you personally believe that each of the following is morally acceptable, morally unacceptable, or is it not a moral issue? — Getting a divorce",
+  "options": [
+   "Morally acceptable",
+   "Morally unacceptable",
+   "Not a moral issue",
+   "Depends on situation"
+  ]
+ },
+ "believe_god": {
+  "question": "Please choose the statement that comes closer to your own views – even if neither is exactly right.",
+  "options": [
+   "It is NOT necessary to believe in God in order to be moral and have good values",
+   "It is necessary to believe in God in order to be moral and have good values"
+  ]
+ },
+ "citizen_religion": {
+  "question": "Thinking about what it means to be a good member of society, how important are the following aspects? — Attending religious services regularly",
+  "options": [
+   "Very important",
+   "Somewhat important",
+   "Not too important",
+   "Not at all important"
+  ]
+ },
+ "citizen_vote": {
+  "question": "Thinking about what it means to be a good member of society, how important are the following aspects? — Voting in elections",
+  "options": [
+   "Very important",
+   "Somewhat important",
+   "Not too important",
+   "Not at all important"
+  ]
+ },
+ "citizen_follow": {
+  "question": "Thinking about what it means to be a good member of society, how important are the following aspects? — Following what is happening in politics in (survey country)",
+  "options": [
+   "Very important",
+   "Somewhat important",
+   "Not too important",
+   "Not at all important"
+  ]
+ },
+ "citizen_environment": {
+  "question": "Thinking about what it means to be a good member of society, how important are the following aspects? — Making choices that help reduce the effects of global climate change",
+  "options": [
+   "Very important",
+   "Somewhat important",
+   "Not too important",
+   "Not at all important"
+  ]
+ },
+ "citizen_protest": {
+  "question": "Thinking about what it means to be a good member of society, how important are the following aspects? — Joining demonstrations about issues you think are important",
+  "options": [
+   "Very important",
+   "Somewhat important",
+   "Not too important",
+   "Not at all important"
+  ]
+ },
+ "polsys_country": {
+  "question": "Thinking about (survey country), would you say the political system needs to be completely reformed, needs major changes, needs minor changes, or doesn’t need to be changed?",
+  "options": [
+   "It needs to be completely reformed",
+   "It needs major changes",
+   "It needs minor changes",
+   "It doesn’t need to be changed"
+  ]
+ },
+ "elections_four": {
+  "question": "How confident are you that elections in (survey country) are conducted fairly and accurately - very confident, somewhat confident, not too confident, or not at all confident?",
+  "options": [
+   "Very confident",
+   "Somewhat confident",
+   "Not too confident",
+   "Not at all confident"
+  ]
+ },
+ "elections_five": {
+  "question": "How confident are you that elections in (survey country) are conducted fairly and accurately - extremely confident, very confident, somewhat confident, not too confident, or not at all confident?",
+  "options": [
+   "Extremely confident",
+   "Very confident",
+   "Somewhat confident",
+   "Not too confident",
+   "Not at all confident"
+  ]
+ },
+ "officials_trait_understand": {
+  "question": "Thinking about elected officials in (survey country), would you say each of the following statements applies to ...? — They understand the needs of ordinary people",
+  "options": [
+   "All of them",
+   "Most of them",
+   "Some of them",
+   "Few of them",
+   "None of them"
+  ]
+ },
+ "officials_trait_focus": {
+  "question": "Thinking about elected officials in (survey country), would you say each of the following statements applies to ...? — They focus on the most important problems in (survey country)",
+  "options": [
+   "All of them",
+   "Most of them",
+   "Some of them",
+   "Few of them",
+   "None of them"
+  ]
+ },
+ "officials_trait_qualified": {
+  "question": "Thinking about elected officials in (survey country), would you say each of the following statements applies to ...? — They are well-qualified for their positions",
+  "options": [
+   "All of them",
+   "Most of them",
+   "Some of them",
+   "Few of them",
+   "None of them"
+  ]
+ },
+ "officials_trait_ethical": {
+  "question": "Thinking about elected officials in (survey country), would you say each of the following statements applies to ...? — They are ethical",
+  "options": [
+   "All of them",
+   "Most of them",
+   "Some of them",
+   "Few of them",
+   "None of them"
+  ]
+ },
+ "officials_trait_honest": {
+  "question": "Thinking about elected officials in (survey country), would you say each of the following statements applies to ...? — They are honest",
+  "options": [
+   "All of them",
+   "Most of them",
+   "Some of them",
+   "Few of them",
+   "None of them"
+  ]
+ },
+ "intthreat_climatechange": {
+  "question": "Do you think that each of the following is a major threat, a minor threat, or not a threat to (survey country)? — Global climate change",
+  "options": [
+   "Major threat",
+   "Minor threat",
+   "Not a threat"
+  ]
+ },
+ "intthreat_econcondition": {
+  "question": "Do you think that each of the following is a major threat, a minor threat, or not a threat to (survey country)? — The condition of the global economy",
+  "options": [
+   "Major threat",
+   "Minor threat",
+   "Not a threat"
+  ]
+ },
+ "intthreat_disease": {
+  "question": "Do you think that each of the following is a major threat, a minor threat, or not a threat to (survey country)? — The spread of infectious diseases",
+  "options": [
+   "Major threat",
+   "Minor threat",
+   "Not a threat"
+  ]
+ },
+ "intthreat_misinfo": {
+  "question": "Do you think that each of the following is a major threat, a minor threat, or not a threat to (survey country)? — The spread of false information online",
+  "options": [
+   "Major threat",
+   "Minor threat",
+   "Not a threat"
+  ]
+ },
+ "intthreat_terrorism": {
+  "question": "Do you think that each of the following is a major threat, a minor threat, or not a threat to (survey country)? — Terrorism",
+  "options": [
+   "Major threat",
+   "Minor threat",
+   "Not a threat"
+  ]
+ },
+ "ai_heard": {
+  "question": "Artificial intelligence, also known as AI, is designed to learn tasks that humans typically do, for instance recognizing speech or pictures. Have you heard or read a lot, a little, or nothing at all about artificial intelligence?",
+  "options": [
+   "A lot",
+   "A little",
+   "Nothing at all"
+  ]
+ },
+ "ai_cncexc": {
+  "question": "Overall, how would you say the increased use of artificial intelligence in daily life makes you feel?",
+  "options": [
+   "More excited than concerned",
+   "More concerned than excited",
+   "Equally concerned and excited"
+  ]
+ },
+ "aireg_us": {
+  "question": "How much trust do you have in each of the following countries and organizations to regulate the use of artificial intelligence effectively? — The United States",
+  "options": [
+   "A lot of trust",
+   "Some trust",
+   "Not too much trust",
+   "No trust at all",
+   "Not sure"
+  ]
+ },
+ "aireg_china": {
+  "question": "How much trust do you have in each of the following countries and organizations to regulate the use of artificial intelligence effectively? — China",
+  "options": [
+   "A lot of trust",
+   "Some trust",
+   "Not too much trust",
+   "No trust at all",
+   "Not sure"
+  ]
+ },
+ "aireg_eu": {
+  "question": "How much trust do you have in each of the following countries and organizations to regulate the use of artificial intelligence effectively? — The European Union",
+  "options": [
+   "A lot of trust",
+   "Some trust",
+   "Not too much trust",
+   "No trust at all",
+   "Not sure"
+  ]
+ },
+ "aireg_country": {
+  "question": "How much trust do you have in each of the following countries and organizations to regulate the use of artificial intelligence effectively? — (survey country)",
+  "options": [
+   "A lot of trust",
+   "Some trust",
+   "Not too much trust",
+   "No trust at all",
+   "Not sure"
+  ]
+ },
+ "china_rights": {
+  "question": "For each one, tell me if you think it is a very serious problem, a somewhat serious problem, not too serious of a problem, or not a problem at all for (survey country)? — China's policies on human rights",
+  "options": [
+   "Very serious problem",
+   "Somewhat serious problem",
+   "Not too serious of a problem",
+   "Not a problem at all"
+  ]
+ },
+ "china_econcomp": {
+  "question": "For each one, tell me if you think it is a very serious problem, a somewhat serious problem, not too serious of a problem, or not a problem at all for (survey country)? — Economic competition with China",
+  "options": [
+   "Very serious problem",
+   "Somewhat serious problem",
+   "Not too serious of a problem",
+   "Not a problem at all"
+  ]
+ },
+ "china_milpower": {
+  "question": "For each one, tell me if you think it is a very serious problem, a somewhat serious problem, not too serious of a problem, or not a problem at all for (survey country)? — China's military power",
+  "options": [
+   "Very serious problem",
+   "Somewhat serious problem",
+   "Not too serious of a problem",
+   "Not a problem at all"
+  ]
+ },
+ "china_politics": {
+  "question": "For each one, tell me if you think it is a very serious problem, a somewhat serious problem, not too serious of a problem, or not a problem at all for (survey country)? — China's involvement in politics in (survey country)",
+  "options": [
+   "Very serious problem",
+   "Somewhat serious problem",
+   "Not too serious of a problem",
+   "Not a problem at all"
+  ]
+ },
+ "china_debt": {
+  "question": "For each one, tell me if you think it is a very serious problem, a somewhat serious problem, not too serious of a problem, or not a problem at all for (survey country)? — The amount of debt (survey country) owes to China",
+  "options": [
+   "Very serious problem",
+   "Somewhat serious problem",
+   "Not too serious of a problem",
+   "Not a problem at all"
+  ]
+ },
+ "china_territory": {
+  "question": "Do you think China’s territorial disputes with India are a very serious problem, somewhat serious problem, not too serious a problem or not a problem at all for India?",
+  "options": [
+   "Very serious problem",
+   "Somewhat serious problem",
+   "Not too serious a problem",
+   "Not a problem at all"
+  ]
+ },
+ "us_invest": {
+  "question": "Which of these statements comes closer to your view, even if neither is exactly right?",
+  "options": [
+   "Investment from the U.S. is a good thing because it creates jobs in (survey country)",
+   "Investment from the U.S. is a bad thing because it gives the U.S. too much influence over domestic affairs in (survey co"
+  ]
+ },
+ "us_rights": {
+  "question": "For each one, tell me if you think it is a very serious problem, a somewhat serious problem, not too serious of a problem, or not a problem at all for (survey country)? — The United States' policies on human rights",
+  "options": [
+   "Very serious problem",
+   "Somewhat serious problem",
+   "Not too serious of a problem",
+   "Not a problem at all"
+  ]
+ },
+ "us_econcomp": {
+  "question": "For each one, tell me if you think it is a very serious problem, a somewhat serious problem, not too serious of a problem, or not a problem at all for (survey country)? — Economic competition with the U.S.",
+  "options": [
+   "Very serious problem",
+   "Somewhat serious problem",
+   "Not too serious of a problem",
+   "Not a problem at all"
+  ]
+ },
+ "us_milpower": {
+  "question": "For each one, tell me if you think it is a very serious problem, a somewhat serious problem, not too serious of a problem, or not a problem at all for (survey country)? — The United States' military power",
+  "options": [
+   "Very serious problem",
+   "Somewhat serious problem",
+   "Not too serious of a problem",
+   "Not a problem at all"
+  ]
+ },
+ "us_politics": {
+  "question": "For each one, tell me if you think it is a very serious problem, a somewhat serious problem, not too serious of a problem, or not a problem at all for (survey country)? — The United States’ involvement in politics in (survey country)",
+  "options": [
+   "Very serious problem",
+   "Somewhat serious problem",
+   "Not too serious of a problem",
+   "Not a problem at all"
+  ]
+ },
+ "us_debt": {
+  "question": "For each one, tell me if you think it is a very serious problem, a somewhat serious problem, not too serious of a problem, or not a problem at all for (survey country)? — The amount of debt (survey country) owes to the U.S.",
+  "options": [
+   "Very serious problem",
+   "Somewhat serious problem",
+   "Not too serious of a problem",
+   "Not a problem at all"
+  ]
+ },
+ "climate_local": {
+  "question": "Do you think that global climate change is affecting the area where you live a great deal, some, not too much or not at all?",
+  "options": [
+   "A great deal",
+   "Some",
+   "Not too much",
+   "Not at all"
+  ]
+ },
+ "climate_effects": {
+  "question": "I am going to read you a list of possible effects of global climate change. Which one of these effects concerns you most?",
+  "options": [
+   "Droughts or water shortages",
+   "Floods or intense storms",
+   "Long periods of unusually hot weather",
+   "Rising sea levels",
+   "None of these"
+  ]
+ },
+ "climate_concern": {
+  "question": "How concerned are you, if at all, that global climate change will harm you personally at some point in your lifetime? Are you very concerned, somewhat concerned, not too concerned or not at all concerned?",
+  "options": [
+   "Very concerned",
+   "Somewhat concerned",
+   "Not too concerned",
+   "Not at all concerned"
+  ]
+ },
+ "climate_behavior": {
+  "question": "How much, if anything, would you be willing to change about how you live and work to help reduce the effects of global climate change?",
+  "options": [
+   "A lot of changes",
+   "Some changes",
+   "Only a few changes",
+   "No changes at all"
+  ]
+ },
+ "wealth_emissions": {
+  "question": "Which of the following do you think should matter more in deciding how much a country does to address global climate change?",
+  "options": [
+   "How wealthy a country is",
+   "How much a country’s carbon emissions contribute to climate change"
+  ]
+ },
+ "climate_intlcommunity": {
+  "question": "How confident are you that actions taken by the international community will significantly reduce the effects of global climate change – very confident, somewhat confident, not too confident, or not at all confident?",
+  "options": [
+   "Very confident",
+   "Somewhat confident",
+   "Not too confident",
+   "Not at all confident"
+  ]
+ },
+ "growinflu_country": {
+  "question": "Would you say (survey country)'s influence in the world in recent years has been...?",
+  "options": [
+   "Getting stronger",
+   "Getting weaker",
+   "Staying about the same"
+  ]
+ },
+ "discrim2_hindu": {
+  "question": "Just your impression, in India today, is there a lot of discrimination against ...? — Hindus",
+  "options": [
+   "Yes, a lot of discrimination",
+   "No, not a lot of discrimination"
+  ]
+ },
+ "discrim2_muslim": {
+  "question": "Just your impression, in India today, is there a lot of discrimination against ...? — Muslims",
+  "options": [
+   "Yes, a lot of discrimination",
+   "No, not a lot of discrimination"
+  ]
+ },
+ "discrim2_christian": {
+  "question": "Just your impression, in India today, is there a lot of discrimination against ...? — Christians",
+  "options": [
+   "Yes, a lot of discrimination",
+   "No, not a lot of discrimination"
+  ]
+ },
+ "discrim2_sikh": {
+  "question": "Just your impression, in India today, is there a lot of discrimination against ...? — Sikhs",
+  "options": [
+   "Yes, a lot of discrimination",
+   "No, not a lot of discrimination"
+  ]
+ },
+ "discrim2_buddhist": {
+  "question": "Just your impression, in India today, is there a lot of discrimination against ...? — Buddhists",
+  "options": [
+   "Yes, a lot of discrimination",
+   "No, not a lot of discrimination"
+  ]
+ },
+ "discrim2_jain": {
+  "question": "Just your impression, in India today, is there a lot of discrimination against ...? — Jains",
+  "options": [
+   "Yes, a lot of discrimination",
+   "No, not a lot of discrimination"
+  ]
+ },
+ "discrim2_sc": {
+  "question": "Just your impression, in India today, is there a lot of discrimination against ...? — Members of Scheduled Castes",
+  "options": [
+   "Yes, a lot of discrimination",
+   "No, not a lot of discrimination"
+  ]
+ },
+ "discrim2_st": {
+  "question": "Just your impression, in India today, is there a lot of discrimination against ...? — Members of Scheduled Tribes",
+  "options": [
+   "Yes, a lot of discrimination",
+   "No, not a lot of discrimination"
+  ]
+ },
+ "discrim2_obc": {
+  "question": "Just your impression, in India today, is there a lot of discrimination against ...? — Members of Other Backward Classes",
+  "options": [
+   "Yes, a lot of discrimination",
+   "No, not a lot of discrimination"
+  ]
+ },
+ "discrim2_women": {
+  "question": "Just your impression, in India today, is there a lot of discrimination against ...? — Women",
+  "options": [
+   "Yes, a lot of discrimination",
+   "No, not a lot of discrimination"
+  ]
+ },
+ "discrim2_men": {
+  "question": "Just your impression, in India today, is there a lot of discrimination against ...? — Men",
+  "options": [
+   "Yes, a lot of discrimination",
+   "No, not a lot of discrimination"
+  ]
+ },
+ "discrim4_hindu": {
+  "question": "Just your impression, in India today, is there a lot of discrimination, some discrimination, not too much discrimination, or no discrimination at all against ...? — Hindus",
+  "options": [
+   "A lot of discrimination",
+   "Some discrimination",
+   "Not too much discrimination",
+   "No discrimination at all"
+  ]
+ },
+ "discrim4_muslim": {
+  "question": "Just your impression, in India today, is there a lot of discrimination, some discrimination, not too much discrimination, or no discrimination at all against ...? — Muslims",
+  "options": [
+   "A lot of discrimination",
+   "Some discrimination",
+   "Not too much discrimination",
+   "No discrimination at all"
+  ]
+ },
+ "discrim4_christian": {
+  "question": "Just your impression, in India today, is there a lot of discrimination, some discrimination, not too much discrimination, or no discrimination at all against ...? — Christians",
+  "options": [
+   "A lot of discrimination",
+   "Some discrimination",
+   "Not too much discrimination",
+   "No discrimination at all"
+  ]
+ },
+ "discrim4_sikh": {
+  "question": "Just your impression, in India today, is there a lot of discrimination, some discrimination, not too much discrimination, or no discrimination at all against ...? — Sikhs",
+  "options": [
+   "A lot of discrimination",
+   "Some discrimination",
+   "Not too much discrimination",
+   "No discrimination at all"
+  ]
+ },
+ "discrim4_buddhist": {
+  "question": "Just your impression, in India today, is there a lot of discrimination, some discrimination, not too much discrimination, or no discrimination at all against ...? — Buddhists",
+  "options": [
+   "A lot of discrimination",
+   "Some discrimination",
+   "Not too much discrimination",
+   "No discrimination at all"
+  ]
+ },
+ "discrim4_jain": {
+  "question": "Just your impression, in India today, is there a lot of discrimination, some discrimination, not too much discrimination, or no discrimination at all against ...? — Jains",
+  "options": [
+   "A lot of discrimination",
+   "Some discrimination",
+   "Not too much discrimination",
+   "No discrimination at all"
+  ]
+ },
+ "discrim4_sc": {
+  "question": "Just your impression, in India today, is there a lot of discrimination, some discrimination, not too much discrimination, or no discrimination at all against ...? — Members of Scheduled Castes",
+  "options": [
+   "A lot of discrimination",
+   "Some discrimination",
+   "Not too much discrimination",
+   "No discrimination at all"
+  ]
+ },
+ "discrim4_st": {
+  "question": "Just your impression, in India today, is there a lot of discrimination, some discrimination, not too much discrimination, or no discrimination at all against ...? — Members of Scheduled Tribes",
+  "options": [
+   "A lot of discrimination",
+   "Some discrimination",
+   "Not too much discrimination",
+   "No discrimination at all"
+  ]
+ },
+ "discrim4_obc": {
+  "question": "Just your impression, in India today, is there a lot of discrimination, some discrimination, not too much discrimination, or no discrimination at all against ...? — Members of Other Backwards Classes",
+  "options": [
+   "A lot of discrimination",
+   "Some discrimination",
+   "Not too much discrimination",
+   "No discrimination at all"
+  ]
+ },
+ "discrim4_women": {
+  "question": "Just your impression, in India today, is there a lot of discrimination, some discrimination, not too much discrimination, or no discrimination at all against ...? — Women",
+  "options": [
+   "A lot of discrimination",
+   "Some discrimination",
+   "Not too much discrimination",
+   "No discrimination at all"
+  ]
+ },
+ "discrim4_men": {
+  "question": "Just your impression, in India today, is there a lot of discrimination, some discrimination, not too much discrimination, or no discrimination at all against ...? — Men",
+  "options": [
+   "A lot of discrimination",
+   "Some discrimination",
+   "Not too much discrimination",
+   "No discrimination at all"
+  ]
+ },
+ "religion_import": {
+  "question": "How important is religion in your life: very important, somewhat important, not too important or not at all important?",
+  "options": [
+   "Very important",
+   "Somewhat important",
+   "Not too important",
+   "Not at all important"
+  ]
+ },
+ "pray_freq": {
+  "question": "Outside of attending religious services, do you pray several times a day, once a day, a few times a week, once a week, a few times a month, less often than that, OR never?",
+  "options": [
+   "Several times a day",
+   "Once a day",
+   "A few times a week",
+   "Once a week",
+   "A few times a month",
+   "Less often than that",
+   "Never"
+  ]
+ },
+ "d_caste_india": {
+  "question": "Are you from a...?",
+  "options": [
+   "General Category",
+   "Scheduled Caste",
+   "Scheduled Tribe",
+   "Other Backward Class",
+   "Most Backward Class",
+   "I do not/my religion does not recognize a caste system",
+   "Not a member of any caste/category/class"
+  ]
+ },
+ "d_ptyid_proximity_lean": {
+  "question": "Even if you do not feel particularly close to one party, is there any party you feel somewhat closer to than others?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "trust_people": {
+  "question": "Which of the following comes closer to your view?",
+  "options": [
+   "In general, most people can be trusted",
+   "In general, most people cannot be trusted"
+  ]
+ },
+ "internetfreq": {
+  "question": "About how often do you use the internet, whether on a computer, tablet or cellphone - almost constantly, several times a day, about once a day, several times a week, less often or do you not use the internet?",
+  "options": [
+   "Almost constantly",
+   "Several times a day",
+   "About once a day",
+   "Several times a week",
+   "Less often",
+   "Or do you not use the internet"
+  ]
+ }
+}
