@@ -16,4 +16,4 @@ extraction = ["numpy>=1.24", "pandas>=2.0", "pyreadstat>=1.2", "pypdf>=4.0", "pd
 
 [project.urls]
 Homepage = "https://imario.ai"
-Repository = "https://github.com/imario-ai/imario-benchmark"
+Repository = "https://github.com/laugherxiao/imario-benchmark"

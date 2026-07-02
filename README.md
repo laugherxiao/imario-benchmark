@@ -7,7 +7,7 @@ Most synthetic-audience vendors publish a single percentage and no data, no code
 ## Reproduce our numbers (no install, no account)
 
 ```bash
-git clone https://github.com/imario-ai/imario-benchmark && cd imario-benchmark
+git clone https://github.com/laugherxiao/imario-benchmark && cd imario-benchmark
 python score.py            # Python 3.9+ standard library only — nothing to install
 ```
 
